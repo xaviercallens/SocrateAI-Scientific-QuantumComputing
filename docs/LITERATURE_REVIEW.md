@@ -117,14 +117,7 @@ Montgomery 1988 (10.1017/S0017089500007047) · Rankin 1953 (10.1017/S20406185000
   the D1–D3 corollaries; see workflow §5.
 
 **Ingestion record (2026-10-11):**
-- `qc_literature`: all 73/73 abstracts landed (1024-d). `query_chroma.py --verify` **PASS 8/8** probes.
-- Full-text body chunks (2,501 from the dry run) were started with `ingest_chroma.py --resume`. Re-run the same command
-  if it is interrupted; it skips chunks already stored. Then re-run `--verify`.
-- `qc_streams`: 90 chunks from 21 documents.
-
-Usage:
-```bash
-PY=~/AutoevolveAI/.venv/bin/python
-$PY corpus/query_chroma.py "Rydberg blockade maximum independent set" --pillar benchmark -n 3
-$PY corpus/query_chroma.py --verify
-```
+- `qc_literature`: **2,574 chunks**, made of 73/73 abstracts plus 2,501 full-text body chunks (1024-d).
+  `query_chroma.py --verify` **PASS 8/8** probes, both after the abstracts and after the full text.
+- `qc_streams`: **91 chunks** from 21 documents. Each chunk is labelled with its real repository; worktree copies
+  carry the branch name.
