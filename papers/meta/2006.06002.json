@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2006.06002",
+  "version": "v2",
+  "title": "Quantum Many-body Bootstrap",
+  "abstract": "A numerical bootstrap method is proposed to provide rigorous and nontrivial bounds in general quantum many-body systems with locality. In particular, lower bounds on ground state energies of local lattice systems are obtained by imposing positivity constraints on certain operator expectation values. Complemented with variational upper bounds, ground state observables are constrained to be within a narrow range. The method is demonstrated with the Hubbard model in one and two dimensions, and bounds on ground state double occupancy and magnetization are discussed.",
+  "authors": [
+    "Xizhi Han"
+  ],
+  "published": "2020-06-10T18:00:05Z",
+  "updated": "2020-09-15T01:21:42Z",
+  "year": "2020",
+  "primary_category": "cond-mat.str-el",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2006.06002",
+  "pdf_url": "https://arxiv.org/pdf/2006.06002",
+  "pillar": "floor",
+  "slug": "2006.06002",
+  "pdf_local": "papers/pdf/2006.06002.pdf"
+}

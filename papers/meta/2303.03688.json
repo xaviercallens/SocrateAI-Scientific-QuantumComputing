@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2303.03688",
+  "version": "v3",
+  "title": "Blueprint for quantum computing using electrons on helium",
+  "abstract": "We present a blueprint for building a fault-tolerant quantum computer using the spin states of electrons on the surface of liquid helium. We propose to use ferromagnetic micropillars to trap single electrons on top of them and to generate a local magnetic field gradient. Introducing a local magnetic field gradient hybridizes charge and spin degrees of freedom, which allows us to benefit from both the long coherence time of the spin state and the long-range Coulomb interaction that affects the charge state. We present concrete schemes to realize single- and two-qubit gates and quantum-non-demolition read-out. In our framework, the hybridization of charge and spin degrees of freedom is large enough to perform fast qubit gates and small enough not to degrade the coherence time of the spin state significantly, which leads to the realization of high-fidelity qubit gates.",
+  "authors": [
+    "Erika Kawakami",
+    "Jiabao Chen",
+    "Mónica Benito",
+    "Denis Konstantinov"
+  ],
+  "published": "2023-03-07T07:13:04Z",
+  "updated": "2023-10-19T04:31:35Z",
+  "year": "2023",
+  "primary_category": "cond-mat.mes-hall",
+  "categories": [
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "doi": "10.1103/PhysRevApplied.20.054022",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2303.03688",
+  "pdf_url": "https://arxiv.org/pdf/2303.03688",
+  "pillar": "gates",
+  "slug": "2303.03688",
+  "pdf_local": "papers/pdf/2303.03688.pdf"
+}

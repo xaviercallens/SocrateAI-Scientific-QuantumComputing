@@ -1,0 +1,36 @@
+{
+  "arxiv_id": "2307.09442",
+  "version": "v3",
+  "title": "Hardness of the Maximum Independent Set Problem on Unit-Disk Graphs and Prospects for Quantum Speedups",
+  "abstract": "Rydberg atom arrays are among the leading contenders for the demonstration of quantum speedups. Motivated by recent experiments with up to 289 qubits [Ebadi et al., Science 376, 1209 (2022)] we study the maximum independent set problem on unit-disk graphs with a broader range of classical solvers beyond the scope of the original paper. We carry out extensive numerical studies and assess problem hardness, using both exact and heuristic algorithms. We find that quasi-planar instances with Union-Jack-like connectivity can be solved to optimality for up to thousands of nodes within minutes, with both custom and generic commercial solvers on commodity hardware, without any instance-specific fine-tuning. We also perform a scaling analysis, showing that by relaxing the constraints on the classical simulated annealing algorithms considered in Ebadi et al., our implementation is competitive with the quantum algorithms. Conversely, instances with larger connectivity or less structure are shown to display a time-to-solution potentially orders of magnitudes larger. Based on these results we propose protocols to systematically tune problem hardness, motivating experiments with Rydberg atom arrays on instances orders of magnitude harder (for established classical solvers) than previously studied.",
+  "authors": [
+    "Ruben S. Andrist",
+    "Martin J. A. Schuetz",
+    "Pierre Minssen",
+    "Romina Yalovetzky",
+    "Shouvanik Chakrabarti",
+    "Dylan Herman",
+    "Niraj Kumar",
+    "Grant Salton",
+    "Ruslan Shaydulin",
+    "Yue Sun",
+    "Marco Pistoia",
+    "Helmut G. Katzgraber"
+  ],
+  "published": "2023-07-18T17:16:42Z",
+  "updated": "2024-01-09T17:07:00Z",
+  "year": "2023",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.dis-nn",
+    "math.OC"
+  ],
+  "doi": "10.1103/PhysRevResearch.5.043277",
+  "journal_ref": "Phys. Rev. Research 5, 043277 (2023)",
+  "abs_url": "https://arxiv.org/abs/2307.09442",
+  "pdf_url": "https://arxiv.org/pdf/2307.09442",
+  "pillar": "benchmark",
+  "slug": "2307.09442",
+  "pdf_local": "papers/pdf/2307.09442.pdf"
+}

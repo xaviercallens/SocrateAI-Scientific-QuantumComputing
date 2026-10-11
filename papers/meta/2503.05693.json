@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2503.05693",
+  "version": "v4",
+  "title": "Dynamics of disordered quantum systems with two- and three-dimensional tensor networks",
+  "abstract": "Large scale quantum annealing dynamics of Ising spin glasses were recently implemented on D-Wave's Advantage$2$ system on a range of lattices. Following extensive comparison to existing numerical methods, these experiments were claimed to be beyond the reach of classical computation. Here, we simulate these spin glass models with lattice-specific tensor networks, using belief propagation (BP) to keep up with the entanglement generated during the time evolution and then extracting expectation values with more sophisticated variants of BP. We find that state-of-the-art accuracies can be achieved with modest computational resources. Moreover, our results are scalable in both two and three dimensions, which we leverage to verify universal Kibble-Zurek physics on systems involving hundreds of qubits.",
+  "authors": [
+    "Joseph Tindall",
+    "Antonio Mello",
+    "Matt Fishman",
+    "Miles Stoudenmire",
+    "Dries Sels"
+  ],
+  "published": "2025-03-07T18:58:03Z",
+  "updated": "2026-05-27T20:25:50Z",
+  "year": "2025",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "10.1126/science.adx2728",
+  "journal_ref": "Science 392, 868-872 (2026)",
+  "abs_url": "https://arxiv.org/abs/2503.05693",
+  "pdf_url": "https://arxiv.org/pdf/2503.05693",
+  "pillar": "benchmark",
+  "slug": "2503.05693",
+  "pdf_local": "papers/pdf/2503.05693.pdf"
+}

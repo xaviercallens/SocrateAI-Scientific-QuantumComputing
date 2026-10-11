@@ -1,0 +1,32 @@
+{
+  "arxiv_id": "1204.5789",
+  "version": "v1",
+  "title": "Engineered 2D Ising interactions on a trapped-ion quantum simulator with hundreds of spins",
+  "abstract": "The presence of long-range quantum spin correlations underlies a variety of physical phenomena in condensed matter systems, potentially including high-temperature superconductivity. However, many properties of exotic strongly correlated spin systems (e.g., spin liquids) have proved difficult to study, in part because calculations involving N-body entanglement become intractable for as few as N~30 particles. Feynman divined that a quantum simulator - a special-purpose \"analog\" processor built using quantum particles (qubits) - would be inherently adept at such problems. In the context of quantum magnetism, a number of experiments have demonstrated the feasibility of this approach. However, simulations of quantum magnetism allowing controlled, tunable interactions between spins localized on 2D and 3D lattices of more than a few 10's of qubits have yet to be demonstrated, owing in part to the technical challenge of realizing large-scale qubit arrays. Here we demonstrate a variable-range Ising-type spin-spin interaction J_ij on a naturally occurring 2D triangular crystal lattice of hundreds of spin-1/2 particles (9Be+ ions stored in a Penning trap), a computationally relevant scale more than an order of magnitude larger than existing experiments. We show that a spin-dependent optical dipole force can produce an antiferromagnetic interaction J_ij ~ 1/d_ij^a, where a is tunable over 0<a<3; d_ij is the distance between spin pairs. These power-laws correspond physically to infinite-range (a=0), Coulomb-like (a=1), monopole-dipole (a=2) and dipole-dipole (a=3) couplings. Experimentally, we demonstrate excellent agreement with theory for 0.05<a<1.4. This demonstration coupled with the high spin-count, excellent quantum control and low technical complexity of the Penning trap brings within reach simulation of interesting and otherwise computationally intractable problems in quantum magnetism.",
+  "authors": [
+    "Joseph W. Britton",
+    "Brian C. Sawyer",
+    "Adam C. Keith",
+    "C. -C. Joseph Wang",
+    "James K. Freericks",
+    "Hermann Uys",
+    "Michael J. Biercuk",
+    "John. J. Bollinger"
+  ],
+  "published": "2012-04-25T23:18:23Z",
+  "updated": "2012-04-25T23:18:23Z",
+  "year": "2012",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.str-el",
+    "physics.comp-ph"
+  ],
+  "doi": "10.1038/nature10981",
+  "journal_ref": "Nature 484, 489-492 (2012)",
+  "abs_url": "https://arxiv.org/abs/1204.5789",
+  "pdf_url": "https://arxiv.org/pdf/1204.5789",
+  "pillar": "layout",
+  "slug": "1204.5789",
+  "pdf_local": "papers/pdf/1204.5789.pdf"
+}

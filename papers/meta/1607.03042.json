@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "1607.03042",
+  "version": "v1",
+  "title": "An atom-by-atom assembler of defect-free arbitrary 2d atomic arrays",
+  "abstract": "Large arrays of individually controlled atoms trapped in optical tweezers are a very promising platform for quantum engineering applications. However, to date, only disordered arrays have been demonstrated, due to the non-deterministic loading of the traps. Here, we demonstrate the preparation of fully loaded, two-dimensional arrays of up to 50 microtraps each containing a single atom, and arranged in arbitrary geometries. Starting from initially larger, half-filled matrices of randomly loaded traps, we obtain user-defined target arrays at unit filling. This is achieved with a real-time control system and a moving optical tweezers that performs a sequence of rapid atom moves depending on the initial distribution of the atoms in the arrays. These results open exciting prospects for quantum engineering with neutral atoms in tunable geometries.",
+  "authors": [
+    "Daniel Barredo",
+    "Sylvain de Léséleuc",
+    "Vincent Lienhard",
+    "Thierry Lahaye",
+    "Antoine Browaeys"
+  ],
+  "published": "2016-07-11T17:19:44Z",
+  "updated": "2016-07-11T17:19:44Z",
+  "year": "2016",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "doi": "10.1126/science.aah3778",
+  "journal_ref": "Science, vol 354, Issue 6315, p. 1021 (2016)",
+  "abs_url": "https://arxiv.org/abs/1607.03042",
+  "pdf_url": "https://arxiv.org/pdf/1607.03042",
+  "pillar": "layout",
+  "slug": "1607.03042",
+  "pdf_local": "papers/pdf/1607.03042.pdf"
+}

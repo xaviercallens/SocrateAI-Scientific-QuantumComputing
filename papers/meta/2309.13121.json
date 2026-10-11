@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2309.13121",
+  "version": "v2",
+  "title": "Dynamical defects in a two-dimensional Wigner crystal: self-doping and kinetic magnetism",
+  "abstract": "We study the quantum dynamics of interstitials and vacancies in a two-dimensional Wigner crystal (WC) using a semi-classical instanton method that is asymptotically exact at low density, i.e., in the $r_s\\to \\infty$ limit. The dynamics of these point defects mediates magnetism with much higher energy scales than the exchange energies of the pure WC. Via exact diagonalization of the derived effective Hamiltonians in the single-defect sectors, we find the dynamical corrections to the defect energies. The resulting expression for the interstitial (vacancy) energy extrapolates to 0 at $r_s = r_{\\rm mit} \\approx 70$ ($r_s \\approx 30$), suggestive of a self-doping instability to a partially melted WC for some range of $r_s$ below $r_{\\rm mit}$. We thus propose a \"metallic electron crystal'' phase of the two-dimensional electron gas at intermediate densities between a low density insulating WC and a high density Fermi fluid.",
+  "authors": [
+    "Kyung-Su Kim",
+    "Ilya Esterlis",
+    "Chaitanya Murthy",
+    "Steven A. Kivelson"
+  ],
+  "published": "2023-09-22T18:01:06Z",
+  "updated": "2023-12-05T18:29:34Z",
+  "year": "2023",
+  "primary_category": "cond-mat.str-el",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2309.13121",
+  "pdf_url": "https://arxiv.org/pdf/2309.13121",
+  "pillar": "defects",
+  "slug": "2309.13121",
+  "pdf_local": "papers/pdf/2309.13121.pdf"
+}

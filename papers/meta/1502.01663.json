@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "1502.01663",
+  "version": "v3",
+  "title": "Probing for quantum speedup in spin glass problems with planted solutions",
+  "abstract": "The availability of quantum annealing devices with hundreds of qubits has made the experimental demonstration of a quantum speedup for optimization problems a coveted, albeit elusive goal. Going beyond earlier studies of random Ising problems, here we introduce a method to construct a set of frustrated Ising-model optimization problems with tunable hardness. We study the performance of a D-Wave Two device (DW2) with up to 503 qubits on these problems and compare it to a suite of classical algorithms, including a highly optimized algorithm designed to compete directly with the DW2. The problems are generated around predetermined ground-state configurations, called planted solutions, which makes them particularly suitable for benchmarking purposes. The problem set exhibits properties familiar from constraint satisfaction (SAT) problems, such as a peak in the typical hardness of the problems, determined by a tunable clause density parameter. We bound the hardness regime where the DW2 device either does not or might exhibit a quantum speedup for our problem set. While we do not find evidence for a speedup for the hardest and most frustrated problems in our problem set, we cannot rule out that a speedup might exist for some of the easier, less frustrated problems. Our empirical findings pertain to the specific D-Wave processor and problem set we studied and leave open the possibility that future processors might exhibit a quantum speedup on the same problem set.",
+  "authors": [
+    "Itay Hen",
+    "Joshua Job",
+    "Tameem Albash",
+    "Troels F. Rønnow",
+    "Matthias Troyer",
+    "Daniel Lidar"
+  ],
+  "published": "2015-02-05T18:11:18Z",
+  "updated": "2015-11-02T03:58:55Z",
+  "year": "2015",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.stat-mech"
+  ],
+  "doi": "10.1103/PhysRevA.92.042325",
+  "journal_ref": "Phys. Rev. A 92, 042325 (2015)",
+  "abs_url": "https://arxiv.org/abs/1502.01663",
+  "pdf_url": "https://arxiv.org/pdf/1502.01663",
+  "pillar": "benchmark",
+  "slug": "1502.01663",
+  "pdf_local": "papers/pdf/1502.01663.pdf"
+}

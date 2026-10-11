@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "0912.1406",
+  "version": "v3",
+  "title": "Proposal for manipulating and detecting spin and orbital states of trapped electrons on helium using cavity quantum electrodynamics",
+  "abstract": "We propose to couple an on-chip high finesse superconducting cavity to the lateral-motion and spin state of a single electron trapped on the surface of superfluid helium. We estimate the motional coherence times to exceed 15 microseconds, while energy will be coherently exchanged with the cavity photons in less than 10 nanoseconds for charge states and faster than 1 microsecond for spin states, making the system attractive for quantum information processing and cavity quantum electrodynamics experiments. Strong interaction with cavity photons will provide the means for both nondestructive readout and coupling of distant electrons.",
+  "authors": [
+    "D. I. Schuster",
+    "A. Fragner",
+    "M. I. Dykman",
+    "S. A. Lyon",
+    "R. J. Schoelkopf"
+  ],
+  "published": "2009-12-08T05:28:09Z",
+  "updated": "2010-08-16T22:22:07Z",
+  "year": "2009",
+  "primary_category": "cond-mat.mes-hall",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con",
+    "quant-ph"
+  ],
+  "doi": "10.1103/PhysRevLett.105.040503",
+  "journal_ref": "Phys. Rev. Lett. 105, 040503 (2010)",
+  "abs_url": "https://arxiv.org/abs/0912.1406",
+  "pdf_url": "https://arxiv.org/pdf/0912.1406",
+  "pillar": "gates",
+  "slug": "0912.1406",
+  "pdf_local": "papers/pdf/0912.1406.pdf"
+}

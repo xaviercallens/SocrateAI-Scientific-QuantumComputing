@@ -1,0 +1,30 @@
+{
+  "arxiv_id": "2302.00565",
+  "version": "v1",
+  "title": "Controlling two-dimensional Coulomb crystals of more than 100 ions in a monolithic radio-frequency trap",
+  "abstract": "Linear strings of trapped atomic ions held in radio-frequency (rf) traps constitute one of the leading platforms for quantum simulation experiments, allowing for the investigation of interacting quantum matter. However, linear ion strings have drawbacks, such as the difficulty to scale beyond $\\sim 50$ particles as well as the inability to naturally implement spin models with more than one spatial dimension. Here, we present experiments with planar Coulomb crystals of about 100 $^{40}$Ca$^+$ ions in a novel monolithic rf trap, laying the groundwork for quantum simulations of two-dimensional spin models with single-particle control. We characterize the trapping potential by analysis of crystal images and compare the observed crystal configurations with numerical simulations. We further demonstrate stable confinement of large crystals, free of structural configuration changes, and find that rf heating of the crystal is not an obstacle for future quantum simulation experiments. Finally, we prepare the out-of-plane motional modes of planar crystals consisting of up to 105 ions close to their ground state by electromagnetically-induced transparency cooling, an important prerequisite for implementing long-range entangling interactions.",
+  "authors": [
+    "Dominik Kiesenhofer",
+    "Helene Hainzer",
+    "Artem Zhdanov",
+    "Philip C. Holz",
+    "Matthias Bock",
+    "Tuomas Ollikainen",
+    "Christian F. Roos"
+  ],
+  "published": "2023-02-01T16:38:11Z",
+  "updated": "2023-02-01T16:38:11Z",
+  "year": "2023",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "doi": "10.1103/PRXQuantum.4.020317",
+  "journal_ref": "PRX Quantum 4, 020317 (2023)",
+  "abs_url": "https://arxiv.org/abs/2302.00565",
+  "pdf_url": "https://arxiv.org/pdf/2302.00565",
+  "pillar": "layout",
+  "slug": "2302.00565",
+  "pdf_local": "papers/pdf/2302.00565.pdf"
+}

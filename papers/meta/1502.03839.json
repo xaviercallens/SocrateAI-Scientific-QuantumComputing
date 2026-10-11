@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "1502.03839",
+  "version": "v2",
+  "title": "2D Theta Functions and Crystallization among Bravais Lattices",
+  "abstract": "In this paper, we study minimization problems among Bravais lattices for finite energy per point. We prove that if a function is completely monotonic, then the triangular lattice minimizes energy per particle among Bravais lattices with density fixed for any density. Furthermore we give an example of convex decreasing positive potential for which triangular lattice is not a minimizer for some densities. We use Montgomery method presented in our previous work to prove minimality of triangular lattice among Bravais lattices at high density for some general potentials. Finally we deduce global minimality among all Bravais lattices, i.e. without density constraint, of a triangular lattice for some parameters of Lennard-Jones type potentials and attractive-repulsive Yukawa potentials.",
+  "authors": [
+    "Laurent Bétermin"
+  ],
+  "published": "2015-02-12T21:35:21Z",
+  "updated": "2015-04-09T13:10:39Z",
+  "year": "2015",
+  "primary_category": "math-ph",
+  "categories": [
+    "math-ph",
+    "math.NT"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/1502.03839",
+  "pdf_url": "https://arxiv.org/pdf/1502.03839",
+  "pillar": "foundation",
+  "slug": "1502.03839",
+  "pdf_local": "papers/pdf/1502.03839.pdf"
+}

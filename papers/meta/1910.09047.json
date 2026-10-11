@@ -1,0 +1,39 @@
+{
+  "arxiv_id": "1910.09047",
+  "version": "v1",
+  "title": "Optical detection of Mott and generalized Wigner crystal states in WSe2/WS2 moiré superlattices",
+  "abstract": "Moiré superlattices are emerging as a new route for engineering strongly correlated electronic states in two-dimensional van der Waals heterostructures, as recently demonstrated in the correlated insulating and superconducting states in magic-angle twisted bilayer graphene and ABC trilayer graphene/boron nitride moiré superlattices. Transition metal dichalcogenide (TMDC) moiré heterostructures provide another exciting model system to explore correlated quantum phenomena, with the addition of strong light-matter interactions and large spin-orbital coupling. Here we report the optical detection of strongly correlated phases in semiconducting WSe2/WS2 moiré superlattices. Our sensitive optical detection technique reveals a Mott insulator state at one hole per superlattice site (ν = 1), and surprising insulating phases at fractional filling factors ν = 1/3 and 2/3, which we assign to generalized Wigner crystallization on an underlying lattice. Furthermore, the unique spin-valley optical selection rules of TMDC heterostructures allow us to optically create and investigate low-energy spin excited states in the Mott insulator. We reveal an especially slow spin relaxation lifetime of many microseconds in the Mott insulating state, orders-of-magnitude longer than that of charge excitations. Our studies highlight novel correlated physics that can emerge in moiré superlattices beyond graphene.",
+  "authors": [
+    "Emma C. Regan",
+    "Danqing Wang",
+    "Chenhao Jin",
+    "M. Iqbal Bakti Utama",
+    "Beini Gao",
+    "Xin Wei",
+    "Sihan Zhao",
+    "Wenyu Zhao",
+    "Kentaro Yumigeta",
+    "Mark Blei",
+    "Johan Carlstroem",
+    "Kenji Watanabe",
+    "Takashi Taniguchi",
+    "Sefaattin Tongay",
+    "Michael Crommie",
+    "Alex Zettl",
+    "Feng Wang"
+  ],
+  "published": "2019-10-20T18:57:25Z",
+  "updated": "2019-10-20T18:57:25Z",
+  "year": "2019",
+  "primary_category": "cond-mat.mes-hall",
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "doi": "10.1038/s41586-020-2092-4",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/1910.09047",
+  "pdf_url": "https://arxiv.org/pdf/1910.09047",
+  "pillar": "gates",
+  "slug": "1910.09047",
+  "pdf_local": "papers/pdf/1910.09047.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2212.03014",
+  "version": "v3",
+  "title": "Lower Bounding Ground-State Energies of Local Hamiltonians Through the Renormalization Group",
+  "abstract": "Given a renormalization scheme, we show how to formulate a tractable convex relaxation of the set of feasible local density matrices of a many-body quantum system. The relaxation is obtained by introducing a hierarchy of constraints between the reduced states of ever-growing sets of lattice sites. The coarse-graining maps of the underlying renormalization procedure serve to eliminate a vast number of those constraints, such that the remaining ones can be enforced with reasonable computational means. This can be used to obtain rigorous lower bounds on the ground state energy of arbitrary local Hamiltonians, by performing a linear optimization over the resulting convex relaxation of reduced quantum states. The quality of the bounds crucially depends on the particular renormalization scheme, which must be tailored to the target Hamiltonian. We apply our method to 1D translation-invariant spin models, obtaining energy bounds comparable to those attained by optimizing over locally translation-invariant states of $n\\gtrsim 100$ spins. Beyond this demonstration, the general method can be applied to a wide range of other problems, such as spin systems in higher spatial dimensions, electronic structure problems, and various other many-body optimization problems, such as entanglement and nonlocality detection.",
+  "authors": [
+    "Ilya Kull",
+    "Norbert Schuch",
+    "Ben Dive",
+    "Miguel Navascués"
+  ],
+  "published": "2022-12-06T14:39:47Z",
+  "updated": "2024-04-10T10:26:56Z",
+  "year": "2022",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.str-el"
+  ],
+  "doi": "10.1103/PhysRevX.14.021008",
+  "journal_ref": "Phys. Rev. X 14, 021008 (9 April 2024)",
+  "abs_url": "https://arxiv.org/abs/2212.03014",
+  "pdf_url": "https://arxiv.org/pdf/2212.03014",
+  "pillar": "floor",
+  "slug": "2212.03014",
+  "pdf_local": "papers/pdf/2212.03014.pdf"
+}

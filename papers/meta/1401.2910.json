@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "1401.2910",
+  "version": "v1",
+  "title": "Defining and detecting quantum speedup",
+  "abstract": "The development of small-scale digital and analog quantum devices raises the question of how to fairly assess and compare the computational power of classical and quantum devices, and of how to detect quantum speedup. Here we show how to define and measure quantum speedup in various scenarios, and how to avoid pitfalls that might mask or fake quantum speedup. We illustrate our discussion with data from a randomized benchmark test on a D-Wave Two device with up to 503 qubits. Comparing the performance of the device on random spin glass instances with limited precision to simulated classical and quantum annealers, we find no evidence of quantum speedup when the entire data set is considered, and obtain inconclusive results when comparing subsets of instances on an instance-by-instance basis. Our results for one particular benchmark do not rule out the possibility of speedup for other classes of problems and illustrate that quantum speedup is elusive and can depend on the question posed.",
+  "authors": [
+    "Troels F. Rønnow",
+    "Zhihui Wang",
+    "Joshua Job",
+    "Sergio Boixo",
+    "Sergei V. Isakov",
+    "David Wecker",
+    "John M. Martinis",
+    "Daniel A. Lidar",
+    "Matthias Troyer"
+  ],
+  "published": "2014-01-13T16:43:16Z",
+  "updated": "2014-01-13T16:43:16Z",
+  "year": "2014",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "10.1126/science.1252319",
+  "journal_ref": "Science 345, 420 (2014)",
+  "abs_url": "https://arxiv.org/abs/1401.2910",
+  "pdf_url": "https://arxiv.org/pdf/1401.2910",
+  "pillar": "benchmark",
+  "slug": "1401.2910",
+  "pdf_local": "papers/pdf/1401.2910.pdf"
+}

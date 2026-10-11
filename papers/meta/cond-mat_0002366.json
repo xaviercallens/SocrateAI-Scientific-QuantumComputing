@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "cond-mat/0002366",
+  "version": "v1",
+  "title": "Single and Paired Point Defects in a 2D Wigner Crystal",
+  "abstract": "Using the path-integral Monte Carlo method, we calculate the energy to form single and pair vacancies and interstitials in a two-dimensional Wigner crystal of electrons. We confirm that the lowest-lying energy defects of a 2D electron Wigner crystal are interstitials, with a creation energy roughly 2/3 that of a vacancy. The formation energy of the defects goes to zero near melting, suggesting that point defects might mediate the melting process. In addition, we find that the interaction between defects is strongly attractive, so that most defects will exist as bound pairs.",
+  "authors": [
+    "Ladir Cândido",
+    "Philip Phillips",
+    "D. M. Ceperley"
+  ],
+  "published": "2000-02-23T23:53:25Z",
+  "updated": "2000-02-23T23:53:25Z",
+  "year": "2000",
+  "primary_category": "cond-mat",
+  "categories": [
+    "cond-mat"
+  ],
+  "doi": "10.1103/PhysRevLett.86.492",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/cond-mat/0002366",
+  "pdf_url": "https://arxiv.org/pdf/cond-mat/0002366",
+  "pillar": "defects",
+  "slug": "cond-mat_0002366",
+  "pdf_local": "papers/pdf/cond-mat_0002366.pdf"
+}

@@ -1,0 +1,41 @@
+{
+  "arxiv_id": "2311.17163",
+  "version": "v2",
+  "title": "A Site-Resolved 2D Quantum Simulator with Hundreds of Trapped Ions",
+  "abstract": "A large qubit capacity and an individual readout capability are two crucial requirements for large-scale quantum computing and simulation. As one of the leading physical platforms for quantum information processing, the ion trap has achieved quantum simulation of tens of ions with site-resolved readout in 1D Paul trap, and that of hundreds of ions with global observables in 2D Penning trap. However, integrating these two features into a single system is still very challenging. Here we report the stable trapping of 512 ions in a 2D Wigner crystal and the sideband cooling of their transverse motion. We demonstrate the quantum simulation of long-range quantum Ising models with tunable coupling strengths and patterns, with or without frustration, using 300 ions. Enabled by the site resolution in the single-shot measurement, we observe rich spatial correlation patterns in the quasi-adiabatically prepared ground states, which allows us to verify quantum simulation results by comparing with the calculated collective phonon modes and with classical simulated annealing. We further probe the quench dynamics of the Ising model in a transverse field to demonstrate quantum sampling tasks. Our work paves the way for simulating classically intractable quantum dynamics and for running NISQ algorithms using 2D ion trap quantum simulators.",
+  "authors": [
+    "S. -A. Guo",
+    "Y. -K. Wu",
+    "J. Ye",
+    "L. Zhang",
+    "W. -Q. Lian",
+    "R. Yao",
+    "Y. Wang",
+    "R. -Y. Yan",
+    "Y. -J. Yi",
+    "Y. -L. Xu",
+    "B. -W. Li",
+    "Y. -H. Hou",
+    "Y. -Z. Xu",
+    "W. -X. Guo",
+    "C. Zhang",
+    "B. -X. Qi",
+    "Z. -C. Zhou",
+    "L. He",
+    "L. -M. Duan"
+  ],
+  "published": "2023-11-28T19:00:39Z",
+  "updated": "2024-04-11T16:10:55Z",
+  "year": "2023",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "10.1038/s41586-024-07459-0",
+  "journal_ref": "Nature 630, 613-618 (2024)",
+  "abs_url": "https://arxiv.org/abs/2311.17163",
+  "pdf_url": "https://arxiv.org/pdf/2311.17163",
+  "pillar": "layout",
+  "slug": "2311.17163",
+  "pdf_local": "papers/pdf/2311.17163.pdf"
+}

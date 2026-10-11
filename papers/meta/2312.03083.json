@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "2312.03083",
+  "version": "v3",
+  "title": "Dual-VQE: A quantum algorithm to lower bound the ground-state energy",
+  "abstract": "The variational quantum eigensolver (VQE) is a hybrid quantum-classical variational algorithm that produces an upper-bound estimate of the ground-state energy of a Hamiltonian. As quantum computers become more powerful and go beyond the reach of classical brute-force simulation, it is important to assess the quality of solutions produced by them. Here we propose a dual variational quantum eigensolver (dual-VQE) that produces a lower-bound estimate of the ground-state energy. As such, VQE and dual-VQE can serve as quality checks on their solutions; in the ideal case, the VQE upper bound and the dual-VQE lower bound form an interval containing the true optimal value of the ground-state energy. The idea behind dual-VQE is to employ semidefinite programming duality to rewrite the ground-state optimization problem as a constrained maximization problem, which itself can be bounded from below by an unconstrained optimization problem to be solved by a variational quantum algorithm. When using a convex combination ansatz in conjunction with a classical generative model, the quantum computational resources needed to evaluate the objective function of dual-VQE are no greater than those needed for that of VQE. We also show that the problem is well suited for classical pretraining using matrix product states and these methods help warm-start the optimization. We simulated the performance of dual-VQE on the transverse-field Ising model with and without pretraining and found that, for the example considered, while dual-VQE training is slower and noisier than VQE, it approaches the true value with an error of order $10^{-2}$.",
+  "authors": [
+    "Hanna Westerheim",
+    "Jingxuan Chen",
+    "Zoë Holmes",
+    "Ivy Luo",
+    "Theshani Nuradha",
+    "Dhrumil Patel",
+    "Soorya Rethinasamy",
+    "Kathie Wang",
+    "Mark M. Wilde"
+  ],
+  "published": "2023-12-05T19:02:19Z",
+  "updated": "2026-03-25T03:18:49Z",
+  "year": "2023",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "10.1103/twrt-y691",
+  "journal_ref": "Physical Review A, vol. 113, no. 3, page 032443, March 2026",
+  "abs_url": "https://arxiv.org/abs/2312.03083",
+  "pdf_url": "https://arxiv.org/pdf/2312.03083",
+  "pillar": "floor",
+  "slug": "2312.03083",
+  "pdf_local": "papers/pdf/2312.03083.pdf"
+}

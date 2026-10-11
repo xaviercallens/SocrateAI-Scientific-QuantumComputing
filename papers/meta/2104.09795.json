@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2104.09795",
+  "version": "v3",
+  "title": "Optimality of the triangular lattice for Lennard-Jones type lattice energies: a computer-assisted method",
+  "abstract": "It is well-known that any Lennard-Jones type potential energy must have a periodic ground state given by a triangular lattice in dimension 2. In this paper, we describe a computer-assisted method that rigorously shows such global minimality result among $2$-dimensional lattices once the exponents of the potential have been fixed. The method is applied to the widely used classical $(12,6)$ Lennard-Jones potential, which is the main result of this work. Furthermore, a new bound on the inverse density (i.e. the co-volume) for which the triangular lattice is minimal is derived, improving those found in [L. Bétermin and P. Zhang, \\textit{Commun. Contemp. Math.}, 17 (2015), 1450049] and [L. Bétermin, \\textit{SIAM J. Math. Anal.}, 48 (2016), 3236--3269]. The same results are also shown to hold for other exponents as additional examples and a new conjecture implying the global optimality of a triangular lattice for any parameters is stated.",
+  "authors": [
+    "Laurent Bétermin"
+  ],
+  "published": "2021-04-20T07:10:53Z",
+  "updated": "2023-03-08T08:26:44Z",
+  "year": "2021",
+  "primary_category": "math-ph",
+  "categories": [
+    "math-ph",
+    "math.OC"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2104.09795",
+  "pdf_url": "https://arxiv.org/pdf/2104.09795",
+  "pillar": "foundation",
+  "slug": "2104.09795",
+  "pdf_local": "papers/pdf/2104.09795.pdf"
+}

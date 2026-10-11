@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "1512.03756",
+  "version": "v2",
+  "title": "Quantum spin dynamics and entanglement generation with hundreds of trapped ions",
+  "abstract": "Quantum simulation of spin models can provide insight into complex problems that are difficult or impossible to study with classical computers. Trapped ions are an established platform for quantum simulation, but only systems with fewer than 20 ions have demonstrated quantum correlations. Here we study non-equilibrium, quantum spin dynamics arising from an engineered, homogeneous Ising interaction in a two-dimensional array of $^9$Be$^+$ ions in a Penning trap. We verify entanglement in the form of spin-squeezed states for up to 219 ions, directly observing 4.0$\\pm$0.9 dB of spectroscopic enhancement. We also observe evidence of non-Gaussian, over-squeezed states in the full counting statistics. We find good agreement with ab-initio theory that includes competition between entanglement and decoherence, laying the groundwork for simulations of the transverse-field Ising model with variable-range interactions, for which numerical solutions are, in general, classically intractable.",
+  "authors": [
+    "Justin G. Bohnet",
+    "Brian C. Sawyer",
+    "Joseph W. Britton",
+    "Michael L. Wall",
+    "Ana Maria Rey",
+    "Michael Foss-Feig",
+    "John J. Bollinger"
+  ],
+  "published": "2015-12-11T18:55:50Z",
+  "updated": "2016-01-07T19:59:18Z",
+  "year": "2015",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "doi": "10.1126/science.aad9958",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/1512.03756",
+  "pdf_url": "https://arxiv.org/pdf/1512.03756",
+  "pillar": "layout",
+  "slug": "1512.03756",
+  "pdf_local": "papers/pdf/1512.03756.pdf"
+}

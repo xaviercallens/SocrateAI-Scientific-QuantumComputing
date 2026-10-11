@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "1711.11044",
+  "version": "v2",
+  "title": "Fracton-Elasticity Duality",
+  "abstract": "Motivated by recent studies of fractons, we demonstrate that elasticity theory of a two-dimensional quantum crystal is dual to a fracton tensor gauge theory, providing a concrete manifestation of the fracton phenomenon in an ordinary solid. The topological defects of elasticity theory map onto charges of the tensor gauge theory, with disclinations and dislocations corresponding to fractons and dipoles, respectively. The transverse and longitudinal phonons of crystals map onto the two gapless gauge modes of the gauge theory. The restricted dynamics of fractons matches with constraints on the mobility of lattice defects. The duality leads to numerous predictions for phases and phase transitions of the fracton system, such as the existence of gauge theory counterparts to the (commensurate) crystal, supersolid, hexatic, and isotropic fluid phases of elasticity theory. Extensions of this duality to generalized elasticity theories provide a route to the discovery of new fracton models. As a further consequence, the duality implies that fracton phases are relevant to the study of interacting topological crystalline insulators.",
+  "authors": [
+    "Michael Pretko",
+    "Leo Radzihovsky"
+  ],
+  "published": "2017-11-29T19:00:02Z",
+  "updated": "2018-08-24T05:15:35Z",
+  "year": "2017",
+  "primary_category": "cond-mat.str-el",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.stat-mech"
+  ],
+  "doi": "10.1103/PhysRevLett.120.195301",
+  "journal_ref": "Phys. Rev. Lett. 120, 195301 (2018)",
+  "abs_url": "https://arxiv.org/abs/1711.11044",
+  "pdf_url": "https://arxiv.org/pdf/1711.11044",
+  "pillar": "defects",
+  "slug": "1711.11044",
+  "pdf_local": "papers/pdf/1711.11044.pdf"
+}

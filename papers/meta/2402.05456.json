@@ -1,0 +1,40 @@
+{
+  "arxiv_id": "2402.05456",
+  "version": "v1",
+  "title": "Quantum Melting of a Disordered Wigner Solid",
+  "abstract": "The behavior of two-dimensional electron gas (2DEG) in extreme coupling limits are reasonably well-understood, but our understanding of intermediate region remains limited. Strongly interacting electrons crystalize into a solid phase known as the Wigner crystal at very low densities, and these evolve to a Fermi liquid at high densities. At intermediate densities, however, where the Wigner crystal melts into a strongly correlated electron fluid that is poorly understood partly due to a lack of microscopic probes for delicate quantum phases. Here we report the first imaging of a disordered Wigner solid and its quantum densification and quantum melting behavior in a bilayer MoSe2 using a non-invasive scanning tunneling microscopy (STM) technique. We observe a Wigner solid with nanocrystalline domains pinned by local disorder at low hole densities. With slightly increasing electrostatic gate voltages, the holes are added quantum mechanically during the densification of the disordered Wigner solid. As the hole density is increased above a threshold (p ~ 5.7 * 10e12 (cm-2)), the Wigner solid is observed to melt locally and create a mixed phase where solid and liquid regions coexist. With increasing density, the liquid regions gradually expand and form an apparent percolation network. Local solid domains appear to be pinned and stabilized by local disorder over a range of densities. Our observations are consistent with a microemulsion picture of Wigner solid quantum melting where solid and liquid domains emerge spontaneously and solid domains are pinned by local disorder.",
+  "authors": [
+    "Ziyu Xiang",
+    "Hongyuan Li",
+    "Jianghan Xiao",
+    "Mit H. Naik",
+    "Zhehao Ge",
+    "Zehao He",
+    "Sudi Chen",
+    "Jiahui Nie",
+    "Shiyu Li",
+    "Yifan Jiang",
+    "Renee Sailus",
+    "Rounak Banerjee",
+    "Takashi Taniguchi",
+    "Kenji Watanabe",
+    "Sefaattin Tongay",
+    "Steven G. Louie",
+    "Michael F. Crommie",
+    "Feng Wang"
+  ],
+  "published": "2024-02-08T07:21:11Z",
+  "updated": "2024-02-08T07:21:11Z",
+  "year": "2024",
+  "primary_category": "cond-mat.str-el",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2402.05456",
+  "pdf_url": "https://arxiv.org/pdf/2402.05456",
+  "pillar": "gates",
+  "slug": "2402.05456",
+  "pdf_local": "papers/pdf/2402.05456.pdf"
+}

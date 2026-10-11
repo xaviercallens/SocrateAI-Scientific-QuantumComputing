@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2203.12473",
+  "version": "v3",
+  "title": "Improved Lieb-Oxford bound on the indirect and exchange energies",
+  "abstract": "The Lieb-Oxford inequality provides a lower bound on the Coulomb energy of a classical system of $N$ identical charges only in terms of their one-particle density. We prove here a new estimate on the best constant in this inequality. Numerical evaluation provides the value 1.58, which is a significant improvement to the previously known value 1.64. The best constant has recently been shown to be larger than 1.44. In a second part, we prove that the constant can be reduced to 1.25 when the inequality is restricted to Hartree-Fock states. This is the first proof that the exchange term is always much lower than the full indirect Coulomb energy.",
+  "authors": [
+    "Mathieu Lewin",
+    "Elliott H. Lieb",
+    "Robert Seiringer"
+  ],
+  "published": "2022-03-23T15:10:16Z",
+  "updated": "2022-09-13T08:43:54Z",
+  "year": "2022",
+  "primary_category": "math-ph",
+  "categories": [
+    "math-ph",
+    "cond-mat.stat-mech",
+    "physics.chem-ph"
+  ],
+  "doi": "10.1007/s11005-022-01584-5",
+  "journal_ref": "Lett. Math. Phys. 112:92 (2022)",
+  "abs_url": "https://arxiv.org/abs/2203.12473",
+  "pdf_url": "https://arxiv.org/pdf/2203.12473",
+  "pillar": "floor",
+  "slug": "2203.12473",
+  "pdf_local": "papers/pdf/2203.12473.pdf"
+}

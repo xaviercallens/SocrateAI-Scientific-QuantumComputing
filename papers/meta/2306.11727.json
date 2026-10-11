@@ -1,0 +1,37 @@
+{
+  "arxiv_id": "2306.11727",
+  "version": "v1",
+  "title": "Aquila: QuEra's 256-qubit neutral-atom quantum computer",
+  "abstract": "The neutral-atom quantum computer \"Aquila\" is QuEra's latest device available through the Braket cloud service on Amazon Web Services (AWS). Aquila is a \"field-programmable qubit array\" (FPQA) operated as an analog Hamiltonian simulator on a user-configurable architecture, executing programmable coherent quantum dynamics on up to 256 neutral-atom qubits. This whitepaper serves as an overview of Aquila and its capabilities: how it works under the hood, key performance benchmarks, and examples that demonstrate some quintessential applications. This includes an overview of neutral-atom quantum computing, as well as five examples of increasing complexity from single-qubit dynamics to combinatorial optimization, implemented on Aquila. This whitepaper is intended for readers who are interested in learning more about neutral-atom quantum computing, as a guide for those who are ready to start using Aquila, and as a reference point for its performance as an analog quantum computer.",
+  "authors": [
+    "Jonathan Wurtz",
+    "Alexei Bylinskii",
+    "Boris Braverman",
+    "Jesse Amato-Grill",
+    "Sergio H. Cantu",
+    "Florian Huber",
+    "Alexander Lukin",
+    "Fangli Liu",
+    "Phillip Weinberg",
+    "John Long",
+    "Sheng-Tao Wang",
+    "Nathan Gemelke",
+    "Alexander Keesling"
+  ],
+  "published": "2023-06-20T17:56:29Z",
+  "updated": "2023-06-20T17:56:29Z",
+  "year": "2023",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2306.11727",
+  "pdf_url": "https://arxiv.org/pdf/2306.11727",
+  "pillar": "benchmark",
+  "slug": "2306.11727",
+  "pdf_local": "papers/pdf/2306.11727.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "quant-ph/0605138",
+  "version": "v3",
+  "title": "Topological Quantum Distillation",
+  "abstract": "We construct a class of topological quantum codes to perform quantum entanglement distillation. These codes implement the whole Clifford group of unitary operations in a fully topological manner and without selective addressing of qubits. This allows us to extend their application also to quantum teleportation, dense coding and computation with magic states.",
+  "authors": [
+    "H. Bombin",
+    "M. A. Martin-Delgado"
+  ],
+  "published": "2006-05-16T09:58:08Z",
+  "updated": "2007-03-29T14:13:06Z",
+  "year": "2006",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.str-el",
+    "hep-th"
+  ],
+  "doi": "10.1103/PhysRevLett.97.180501",
+  "journal_ref": "Phys.Rev.Lett. 97 (2006) 180501",
+  "abs_url": "https://arxiv.org/abs/quant-ph/0605138",
+  "pdf_url": "https://arxiv.org/pdf/quant-ph/0605138",
+  "pillar": "layout",
+  "slug": "quant-ph_0605138",
+  "pdf_local": "papers/pdf/quant-ph_0605138.pdf"
+}

@@ -1,0 +1,34 @@
+{
+  "arxiv_id": "2502.04291",
+  "version": "v1",
+  "title": "Identifying hard native instances for the maximum independent set problem on neutral atoms quantum processors",
+  "abstract": "The Maximum Independent Set (MIS) problem is a fundamental combinatorial optimization task that can be naturally mapped onto the Ising Hamiltonian of neutral atom quantum processors. Given its connection to NP-hard problems and real-world applications, there has been significant experimental interest in exploring quantum advantage for MIS. Pioneering experiments on King's Lattice graphs suggested a quadratic speed-up over simulated annealing, but recent benchmarks using state-of-the-art methods found no clear advantage, likely due to the structured nature of the tested instances. In this work, we generate hard instances of unit-disk graphs by leveraging complexity theory results and varying key hardness parameters such as density and treewidth. For a fixed graph size, we show that increasing these parameters can lead to prohibitive classical runtime increases of several orders of magnitude. We then compare classical and quantum approaches on small instances and find that, at this scale, quantum solutions are slower than classical ones for finding exact solutions. Based on extended classical benchmarks at larger problem sizes, we estimate that scaling up to a thousand atoms with a 1 kHz repetition rate is a necessary step toward demonstrating a computational advantage with quantum methods.",
+  "authors": [
+    "Pierre Cazals",
+    "Aymeric François",
+    "Loïc Henriet",
+    "Lucas Leclerc",
+    "Malory Marin",
+    "Yassine Naghmouchi",
+    "Wesley da Silva Coelho",
+    "Florian Sikora",
+    "Vittorio Vitale",
+    "Rémi Watrigant",
+    "Monique Witt Garzillo",
+    "Constantin Dalyac"
+  ],
+  "published": "2025-02-06T18:34:59Z",
+  "updated": "2025-02-06T18:34:59Z",
+  "year": "2025",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2502.04291",
+  "pdf_url": "https://arxiv.org/pdf/2502.04291",
+  "pillar": "benchmark",
+  "slug": "2502.04291",
+  "pdf_local": "papers/pdf/2502.04291.pdf"
+}

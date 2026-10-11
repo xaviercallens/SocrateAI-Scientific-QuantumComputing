@@ -1,0 +1,35 @@
+{
+  "arxiv_id": "2010.03078",
+  "version": "v1",
+  "title": "Observation of Wigner crystal of electrons in a monolayer semiconductor",
+  "abstract": "When the Coulomb repulsion between electrons dominates over their kinetic energy, electrons in two dimensional systems were predicted to spontaneously break continuous translation symmetry and form a quantum crystal. Efforts to observe this elusive state of matter, termed a Wigner crystal (WC), in two dimensional extended systems have primarily focused on electrons confined to a single Landau level at high magnetic fields, but have not provided a conclusive experimental signature of the emerging charge order. Here, we use optical spectroscopy to demonstrate that electrons in a pristine monolayer semiconductor with density $ \\lesssim 3 \\cdot 10^{11}$ cm$^{-2}$ form a WC. The interactions between resonantly injected excitons and electrons arranged in a periodic lattice modify the exciton band structure so that it exhibits a new umklapp resonance, heralding the presence of charge order. Remarkably, the combination of a relatively high electron mass and reduced dielectric screening allows us to observe an electronic WC state even in the absence of magnetic field. The tentative phase diagram obtained from our Hartree-Fock calculations provides an explanation of the striking experimental signatures obtained up to $B = 16$ T. Our findings demonstrate that charge-tunable transition metal dichalcogenide (TMD) monolayers enable the investigation of previously uncharted territory for many-body physics where interaction energy dominates over kinetic energy, even in the absence of a moire potential or external fields.",
+  "authors": [
+    "T. Smoleński",
+    "P. E. Dolgirev",
+    "C. Kuhlenkamp",
+    "A. Popert",
+    "Y. Shimazaki",
+    "P. Back",
+    "M. Kroner",
+    "K. Watanabe",
+    "T. Taniguchi",
+    "I. Esterlis",
+    "E. Demler",
+    "A. Imamoğlu"
+  ],
+  "published": "2020-10-06T23:18:22Z",
+  "updated": "2020-10-06T23:18:22Z",
+  "year": "2020",
+  "primary_category": "cond-mat.mes-hall",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "doi": "10.1038/s41586-021-03590-4",
+  "journal_ref": "Nature 595, 53-57 (2021)",
+  "abs_url": "https://arxiv.org/abs/2010.03078",
+  "pdf_url": "https://arxiv.org/pdf/2010.03078",
+  "pillar": "gates",
+  "slug": "2010.03078",
+  "pdf_local": "papers/pdf/2010.03078.pdf"
+}

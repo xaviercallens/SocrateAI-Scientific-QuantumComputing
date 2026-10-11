@@ -1,0 +1,30 @@
+{
+  "arxiv_id": "2210.00921",
+  "version": "v3",
+  "title": "Quantum Error Mitigation",
+  "abstract": "For quantum computers to successfully solve real-world problems, it is necessary to tackle the challenge of noise: the errors which occur in elementary physical components due to unwanted or imperfect interactions. The theory of quantum fault tolerance can provide an answer in the long term, but in the coming era of `NISQ' machines we must seek to mitigate errors rather than completely remove them. This review surveys the diverse methods that have been proposed for quantum error mitigation, assesses their in-principle efficacy, and then describes the hardware demonstrations achieved to date. We identify the commonalities and limitations among the methods, noting how mitigation methods can be chosen according to the primary type of noise present, including algorithmic errors. Open problems in the field are identified and we discuss the prospects for realising mitigation-based devices that can deliver quantum advantage with an impact on science and business.",
+  "authors": [
+    "Zhenyu Cai",
+    "Ryan Babbush",
+    "Simon C. Benjamin",
+    "Suguru Endo",
+    "William J. Huggins",
+    "Ying Li",
+    "Jarrod R. McClean",
+    "Thomas E. O'Brien"
+  ],
+  "published": "2022-10-03T13:28:36Z",
+  "updated": "2023-12-28T21:06:16Z",
+  "year": "2022",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "10.1103/RevModPhys.95.045005",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2210.00921",
+  "pdf_url": "https://arxiv.org/pdf/2210.00921",
+  "pillar": "floor",
+  "slug": "2210.00921",
+  "pdf_local": "papers/pdf/2210.00921.pdf"
+}

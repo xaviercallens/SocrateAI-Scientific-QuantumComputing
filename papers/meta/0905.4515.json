@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "0905.4515",
+  "version": "v1",
+  "title": "Hexatic and mesoscopic phases in the 2D quantum Coulomb system",
+  "abstract": "We study the Wigner crystal melting in a two dimensional quantum system of particles interacting via the 1/r Coulomb potential. We use quantum Monte Carlo methods to calculate its phase diagram, locate the Wigner crystal region, and analyze its instabilities towards the liquid phase. We discuss the role of quantum effects in the critical behavior of the system, and compare our numerical results with the classical theory of melting, and the microemulsion theory of frustrated Coulomb systems. We find a Pomeranchuk effect much larger then in solid helium. In addition, we find that the exponent for the algebraic decay of the hexatic phase differs significantly from the Kosterilitz-Thouless theory of melting. We search for the existence of mesoscopic phases and find evidence of metastable bubbles but no mesoscopic phase that is stable in equilibrium.",
+  "authors": [
+    "Bryan K. Clark",
+    "Michele Casula",
+    "D. M. Ceperley"
+  ],
+  "published": "2009-05-27T20:52:17Z",
+  "updated": "2009-05-27T20:52:17Z",
+  "year": "2009",
+  "primary_category": "cond-mat.str-el",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "doi": "10.1103/PhysRevLett.103.055701",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/0905.4515",
+  "pdf_url": "https://arxiv.org/pdf/0905.4515",
+  "pillar": "gates",
+  "slug": "0905.4515",
+  "pdf_local": "papers/pdf/0905.4515.pdf"
+}

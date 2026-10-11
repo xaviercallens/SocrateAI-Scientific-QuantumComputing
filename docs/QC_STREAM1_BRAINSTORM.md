@@ -201,3 +201,34 @@ re-scoped to what is actually proved.
 - Trapped-ion and e⁻-on-He groups: is the triangular-crystal guarantee useful for your layout or
   stability analysis, and what finite-size form would you need?
 - Compiler engineers: where in a Qiskit/Cirq pipeline would a physics-derived energy floor plug in?
+
+---
+
+## 8. Update 2026-10-11 (project preparation): resolves §3–§5
+
+Sections 2–7 above are left as written. This section records what the preparation pass found. Details are in
+[DEPENDENCIES.md](DEPENDENCIES.md), [LITERATURE_REVIEW.md](LITERATURE_REVIEW.md) and
+[QC_STREAM1_WORKFLOW.md](QC_STREAM1_WORKFLOW.md).
+
+- **§4 central theorem.** The "Lean-verified Cohn–Kumar theorem" is `OAI.AtomicTriangular.universal_energy_minimum`
+  in openai/math (`fd4aeeb2`). It is AI-generated, accepted by the kernel, and **not peer reviewed**. The 2D conjecture
+  is still open in the peer literature (arXiv:2511.03353). SocrateAI's corollaries D1–D4 are in
+  `~/triangular-universal-optimality-lean` (Zenodo 23285631, 23293429). Every Tier A claim here is therefore conditional.
+- **§3 table, resolved:**
+  - **Idea 1.** Evidence: YUK-TRI-1 in `rusty-SUNDIALS-wt-yukawa-global/crates/qf-yukawa-crystal`. At κ=1, annealing
+    reached the lattice in 0/10 OC20 starts. Full-budget global runs are still owed, and an erratum on r_c is owed.
+    Yukawa is only Tier C.
+  - **Idea 2.** The Hessian saddle is `ctl_neg_square_saddle` in `results/controls.jsonl`, with 64–72 negative modes.
+  - **Idea 3.** The "Vacancy Theorem" is D3: `universal_optimum_not_unique` and `vacancy_universally_optimal` in
+    `UniversalOptimality.lean`. It holds in the liminf (lower-energy) sense.
+  - **Idea 4.** The "fourth preprint" is *Gated exciton fluids I* (Zenodo 23294615, a paper proof). *Part II* (23297479)
+    gives a 52-theorem Lean proof that the dual-gate image kernel is completely monotone. Its scope is the **exciton**
+    kernel; the single-plane bare-charge case is a two-line Tier C argument (workflow P1.2).
+  - **Idea 5.** `floor_check` and `check_reported_energy` are in `qf-yukawa-crystal/src/global_opt.rs`. They are
+    one-sided and cover periodic geometry only.
+- **Changes to the ideas:**
+  - Idea 1 moves from Yukawa to **Riesz s = 6** (Rydberg C₆/r⁶, covered by D1). It becomes a *verification* benchmark
+    on a site-occupation encoding, not an advantage claim.
+  - Neutral-atom self-assembly (idea 2) and vacancy anyons (idea 3) are not supported by the theorem or the literature
+    (findings F5, F7, F8).
+  - Idea 4 is the strongest of the five.

@@ -1,0 +1,30 @@
+{
+  "arxiv_id": "2310.05844",
+  "version": "v5",
+  "title": "Certifying ground-state properties of quantum many-body systems",
+  "abstract": "A ubiquitous problem in quantum physics is to understand the ground-state properties of many-body systems. Confronted with the fact that exact diagonalisation quickly becomes impossible when increasing the system size, variational approaches are typically employed as a scalable alternative: energy is minimised over a subset of all possible states and then different physical quantities are computed over the solution state. Despite remarkable success, rigorously speaking, all what variational methods offer are upper bounds on the ground-state energy. On the other hand, so-called relaxations of the ground-state problem based on semidefinite programming represent a complementary approach, providing lower bounds to the ground-state energy. However, in their current implementation, neither variational nor relaxation methods offer provable bound on other observables in the ground state beyond the energy. In this work, we show that the combination of the two classes of approaches can be used to derive certifiable bounds on the value of any observable in the ground state, such as correlation functions of arbitrary order, structure factors, or order parameters. We illustrate the power of this approach in paradigmatic examples of 1D and 2D spin-one-half Heisenberg models. To improve the scalability of the method, we exploit the symmetries and sparsity of the considered systems to reach sizes of hundreds of particles at much higher precision than previous works. Our analysis therefore shows how to obtain certifiable bounds on many-body ground-state properties beyond energy in a scalable way.",
+  "authors": [
+    "Jie Wang",
+    "Jacopo Surace",
+    "Irénée Frérot",
+    "Benoît Legat",
+    "Marc-Olivier Renou",
+    "Victor Magron",
+    "Antonio Acín"
+  ],
+  "published": "2023-10-09T16:40:19Z",
+  "updated": "2024-07-18T15:57:38Z",
+  "year": "2023",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "math.OC"
+  ],
+  "doi": "10.1103/PhysRevX.14.031006",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2310.05844",
+  "pdf_url": "https://arxiv.org/pdf/2310.05844",
+  "pillar": "floor",
+  "slug": "2310.05844",
+  "pdf_local": "papers/pdf/2310.05844.pdf"
+}

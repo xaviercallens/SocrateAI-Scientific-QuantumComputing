@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "1603.04246",
+  "version": "v2",
+  "title": "The sphere packing problem in dimension 8",
+  "abstract": "In this paper we prove that no packing of unit balls in Euclidean space $\\mathbb{R}^8$ has density greater than that of the $E_8$-lattice packing.",
+  "authors": [
+    "Maryna Viazovska"
+  ],
+  "published": "2016-03-14T13:00:35Z",
+  "updated": "2017-04-04T02:03:32Z",
+  "year": "2016",
+  "primary_category": "math.NT",
+  "categories": [
+    "math.NT",
+    "math.MG"
+  ],
+  "doi": "10.4007/annals.2017.185.3.7",
+  "journal_ref": "Annals of Mathematics, Pages 991-1015 from Volume 185 (2017), Issue 3",
+  "abs_url": "https://arxiv.org/abs/1603.04246",
+  "pdf_url": "https://arxiv.org/pdf/1603.04246",
+  "pillar": "foundation",
+  "slug": "1603.04246",
+  "pdf_local": "papers/pdf/1603.04246.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2607.08811",
+  "version": "v1",
+  "title": "Comment on \"Beyond-classical computation in quantum simulation\"",
+  "abstract": "A recent article [Science 388, 199-204 (2025)] investigates the applicability of numerical methods and a quantum processor unit in simulating a quantum annealing protocol. One of the findings indicates that Neural Quantum States - a versatile variational ansatz for the many-body wave function based on artificial neural networks - fail to reach the same accuracy as the quantum processor. In this comment we revisit these concerns, demonstrating that NQS can provide competitive results in some of the cases when accounting for the Monte-Carlo noise and large autocorrelation times between samples obtained from the final state.",
+  "authors": [
+    "Wladislaw Krinitsin",
+    "Nikita Alert",
+    "Matteo Rizzi",
+    "Markus Schmitt"
+  ],
+  "published": "2026-07-09T17:46:47Z",
+  "updated": "2026-07-09T17:46:47Z",
+  "year": "2026",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2607.08811",
+  "pdf_url": "https://arxiv.org/pdf/2607.08811",
+  "pillar": "benchmark",
+  "slug": "2607.08811",
+  "pdf_local": "papers/pdf/2607.08811.pdf"
+}

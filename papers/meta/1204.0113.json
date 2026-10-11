@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "1204.0113",
+  "version": "v3",
+  "title": "Projective non-Abelian Statistics of Dislocation Defects in a Z_N Rotor Model",
+  "abstract": "Non-Abelian statistics is a phenomenon of topologically protected non-Abelian Berry phases as we exchange quasiparticle excitations. In this paper, we construct a Z_N rotor model that realizes a self-dual Z_N Abelian gauge theory. We find that lattice dislocation defects in the model produce topologically protected degeneracy. Even though dislocations are not quasiparticle excitations, they resemble non-Abelian anyons with quantum dimension sqrt(N). Exchanging dislocations can produces topologically protected projective non-Abelian Berry phases. The dislocations, as projective non-Abelian anyons can be viewed as a generalization of the Majorana zero modes.",
+  "authors": [
+    "Yi-Zhuang You",
+    "Xiao-Gang Wen"
+  ],
+  "published": "2012-03-31T16:40:35Z",
+  "updated": "2012-04-26T19:50:52Z",
+  "year": "2012",
+  "primary_category": "cond-mat.str-el",
+  "categories": [
+    "cond-mat.str-el",
+    "quant-ph"
+  ],
+  "doi": "10.1103/PhysRevB.86.161107",
+  "journal_ref": "Phys. Rev. B 86, 161107(R) (2012)",
+  "abs_url": "https://arxiv.org/abs/1204.0113",
+  "pdf_url": "https://arxiv.org/pdf/1204.0113",
+  "pillar": "defects",
+  "slug": "1204.0113",
+  "pdf_local": "papers/pdf/1204.0113.pdf"
+}

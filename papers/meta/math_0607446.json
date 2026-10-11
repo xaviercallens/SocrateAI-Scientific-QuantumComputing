@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "math/0607446",
+  "version": "v2",
+  "title": "Universally optimal distribution of points on spheres",
+  "abstract": "We study configurations of points on the unit sphere that minimize potential energy for a broad class of potential functions (viewed as functions of the squared Euclidean distance between points). Call a configuration sharp if there are m distances between distinct points in it and it is a spherical (2m-1)-design. We prove that every sharp configuration minimizes potential energy for all completely monotonic potential functions. Examples include the minimal vectors of the E_8 and Leech lattices. We also prove the same result for the vertices of the 600-cell, which do not form a sharp configuration. For most known cases, we prove that they are the unique global minima for energy, as long as the potential function is strictly completely monotonic. For certain potential functions, some of these configurations were previously analyzed by Yudin, Kolushov, and Andreev; we build on their techniques. We also generalize our results to other compact two-point homogeneous spaces, and we conclude with an extension to Euclidean space.",
+  "authors": [
+    "Henry Cohn",
+    "Abhinav Kumar"
+  ],
+  "published": "2006-07-19T02:44:02Z",
+  "updated": "2006-10-19T19:21:26Z",
+  "year": "2006",
+  "primary_category": "math.MG",
+  "categories": [
+    "math.MG"
+  ],
+  "doi": "10.1090/S0894-0347-06-00546-7",
+  "journal_ref": "J. Amer. Math. Soc. 20 (2007), 99-148",
+  "abs_url": "https://arxiv.org/abs/math/0607446",
+  "pdf_url": "https://arxiv.org/pdf/math/0607446",
+  "pillar": "foundation",
+  "slug": "math_0607446",
+  "pdf_local": "papers/pdf/math_0607446.pdf"
+}

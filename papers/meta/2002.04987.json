@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2002.04987",
+  "version": "v3",
+  "title": "Critical energy landscape of linear soft spheres",
+  "abstract": "We show that soft spheres interacting with a linear ramp potential when overcompressed beyond the jamming point fall in an amorphous solid phase which is critical, mechanically marginally stable and share many features with the jamming point itself. In the whole phase, the relevant local minima of the potential energy landscape display an isostatic contact network of perfectly touching spheres whose statistics is controlled by an infinite lengthscale. Excitations around such energy minima are non-linear, system spanning, and characterized by a set of non-trivial critical exponents. We perform numerical simulations to measure their values and show that, while they coincide, within numerical precision, with the critical exponents appearing at jamming, the nature of the corresponding excitations is richer. Therefore, linear soft spheres appear as a novel class of finite dimensional systems that self-organize into new, critical, marginally stable, states.",
+  "authors": [
+    "Silvio Franz",
+    "Antonio Sclocchi",
+    "Pierfrancesco Urbani"
+  ],
+  "published": "2020-02-12T13:43:16Z",
+  "updated": "2020-06-12T15:26:01Z",
+  "year": "2020",
+  "primary_category": "cond-mat.dis-nn",
+  "categories": [
+    "cond-mat.dis-nn"
+  ],
+  "doi": "10.21468/SciPostPhys.9.1.012",
+  "journal_ref": "SciPost Phys. 9, 012 (2020)",
+  "abs_url": "https://arxiv.org/abs/2002.04987",
+  "pdf_url": "https://arxiv.org/pdf/2002.04987",
+  "pillar": "benchmark",
+  "slug": "2002.04987",
+  "pdf_local": "papers/pdf/2002.04987.pdf"
+}

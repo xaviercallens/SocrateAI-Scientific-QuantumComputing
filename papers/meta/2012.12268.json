@@ -1,0 +1,36 @@
+{
+  "arxiv_id": "2012.12268",
+  "version": "v1",
+  "title": "Programmable quantum simulation of 2D antiferromagnets with hundreds of Rydberg atoms",
+  "abstract": "Quantum simulation using synthetic systems is a promising route to solve outstanding quantum many-body problems in regimes where other approaches, including numerical ones, fail. Many platforms are being developed towards this goal, in particular based on trapped ions, superconducting circuits, neutral atoms or molecules. All of which face two key challenges: (i) scaling up the ensemble size, whilst retaining high quality control over the parameters and (ii) certifying the outputs for these large systems. Here, we use programmable arrays of individual atoms trapped in optical tweezers, with interactions controlled by laser-excitation to Rydberg states to implement an iconic many-body problem, the antiferromagnetic 2D transverse field Ising model. We push this platform to an unprecedented regime with up to 196 atoms manipulated with high fidelity. We probe the antiferromagnetic order by dynamically tuning the parameters of the Hamiltonian. We illustrate the versatility of our platform by exploring various system sizes on two qualitatively different geometries, square and triangular arrays. We obtain good agreement with numerical calculations up to a computationally feasible size (around 100 particles). This work demonstrates that our platform can be readily used to address open questions in many-body physics.",
+  "authors": [
+    "Pascal Scholl",
+    "Michael Schuler",
+    "Hannah J. Williams",
+    "Alexander A. Eberharter",
+    "Daniel Barredo",
+    "Kai-Niklas Schymik",
+    "Vincent Lienhard",
+    "Louis-Paul Henry",
+    "Thomas C. Lang",
+    "Thierry Lahaye",
+    "Andreas M. Läuchli",
+    "Antoine Browaeys"
+  ],
+  "published": "2020-12-22T19:00:00Z",
+  "updated": "2020-12-22T19:00:00Z",
+  "year": "2020",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "doi": "10.1038/s41586-021-03585-1",
+  "journal_ref": "Nature 595, 233 (2021)",
+  "abs_url": "https://arxiv.org/abs/2012.12268",
+  "pdf_url": "https://arxiv.org/pdf/2012.12268",
+  "pillar": "layout",
+  "slug": "2012.12268",
+  "pdf_local": "papers/pdf/2012.12268.pdf"
+}

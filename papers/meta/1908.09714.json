@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "1908.09714",
+  "version": "v3",
+  "title": "Crystallization for Coulomb and Riesz Interactions as a Consequence of the Cohn-Kumar Conjecture",
+  "abstract": "The Cohn-Kumar conjecture states that the triangular lattice in dimension 2, the $E_8$ lattice in dimension 8, and the Leech lattice in dimension 24 are universally minimizing in the sense that they minimize the total pair interaction energy of infinite point configurations for all completely monotone functions of the squared distance. This conjecture was recently proved by Cohn-Kumar-Miller-Radchenko-Viazovska in dimensions 8 and 24. We explain in this note how the conjecture implies the minimality of the same lattices for the Coulomb and Riesz renormalized energies as well as jellium and periodic jellium energies, hence settling the question of their minimization in dimensions 8 and 24.",
+  "authors": [
+    "Mircea Petrache",
+    "Sylvia Serfaty"
+  ],
+  "published": "2019-08-26T14:50:43Z",
+  "updated": "2019-09-09T19:12:54Z",
+  "year": "2019",
+  "primary_category": "math-ph",
+  "categories": [
+    "math-ph",
+    "math.FA",
+    "math.MG",
+    "math.NT"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/1908.09714",
+  "pdf_url": "https://arxiv.org/pdf/1908.09714",
+  "pillar": "foundation",
+  "slug": "1908.09714",
+  "pdf_local": "papers/pdf/1908.09714.pdf"
+}

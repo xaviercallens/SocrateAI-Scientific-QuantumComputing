@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2509.14344",
+  "version": "v2",
+  "title": "Defects in Wigner crystals: fracton-elasticity duality and vacancy proliferation",
+  "abstract": "We develop a low-energy field theory for electrically charged crystals. Using the tools of fracton-elasticity duality, generalized to accommodate the magnetic 1-form symmetry of electromagnetism, we show how the elastic and electromagnetic degrees of freedom couple to the different crystal defects and to one another. The resulting field theory is then used to calculate vacancy-vacancy interaction energy, and to study the consequences of vacancy proliferation. We find that the longitudinal mode, which in a perfect crystal has a finite gap due to plasma oscillations, becomes gapless in the presence of vacancies. Our framework lays a foundation for a study of defect interactions, their collective dynamics, and consequences of defect-mediated melting in charged crystals.",
+  "authors": [
+    "Paweł Matus"
+  ],
+  "published": "2025-09-17T18:21:06Z",
+  "updated": "2026-02-21T19:45:23Z",
+  "year": "2025",
+  "primary_category": "cond-mat.str-el",
+  "categories": [
+    "cond-mat.str-el",
+    "hep-th"
+  ],
+  "doi": "10.1103/dlkl-n4c6",
+  "journal_ref": "Phys. Rev. B 113, 075138 (2026)",
+  "abs_url": "https://arxiv.org/abs/2509.14344",
+  "pdf_url": "https://arxiv.org/pdf/2509.14344",
+  "pillar": "defects",
+  "slug": "2509.14344",
+  "pdf_local": "papers/pdf/2509.14344.pdf"
+}

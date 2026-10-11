@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "1504.01153",
+  "version": "v2",
+  "title": "The Crystallization Conjecture: A Review",
+  "abstract": "In this article we describe the crystallization conjecture. It states that, in appropriate physical conditions, interacting particles always place themselves into periodic configurations, breaking thereby the natural translation-invariance of the system. This famous problem is still largely open. Mathematically, it amounts to studying the minima of a real-valued function defined on $\\mathbb{R}^{3N}$ where $N$ is the number of particles, which tends to infinity. We review the existing literature and mention several related open problems, of which many have not been thoroughly studied.",
+  "authors": [
+    "Xavier Blanc",
+    "Mathieu Lewin"
+  ],
+  "published": "2015-04-05T19:33:27Z",
+  "updated": "2015-10-05T12:11:06Z",
+  "year": "2015",
+  "primary_category": "cond-mat.stat-mech",
+  "categories": [
+    "cond-mat.stat-mech",
+    "math.AP"
+  ],
+  "doi": "",
+  "journal_ref": "EMS Surveys in Mathematical Sciences, EMS, 2015",
+  "abs_url": "https://arxiv.org/abs/1504.01153",
+  "pdf_url": "https://arxiv.org/pdf/1504.01153",
+  "pillar": "foundation",
+  "slug": "1504.01153",
+  "pdf_local": "papers/pdf/1504.01153.pdf"
+}

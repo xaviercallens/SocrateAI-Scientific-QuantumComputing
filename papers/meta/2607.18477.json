@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2607.18477",
+  "version": "v1",
+  "title": "Theory of two-dimensional Wigner crystals with defects: Interactions, melting transitions and collective modes",
+  "abstract": "The physics of Wigner solids is characterized by an interplay of elasticity and long-range electrostatics, endowing crystal defects with properties distinct from those in charge-neutral crystals. Recent experiments observing lattice melting and Wigner-crystal-adjacent phases in two dimensions necessitate an examination of how defects affect the long-wavelength properties of such solids. Here, we use duality techniques to construct a comprehensive framework for studying the contribution of vacancies and interstitials, dislocations, and disclinations to the effective action of two-dimensional charged crystals. This allows for a systematic investigation of the interaction energies for the different combinations of defect pairs. We further study melting transitions due to defect proliferation, assessing and justifying some of the assumptions present in the literature. In the metallic Wigner crystal phase, characterized by a finite ground state density of vacancies, we find phonons with a dispersion relation that varies in an unusual way with the vacancy density. Consequently, we discuss how thermodynamic properties of such a vacancy Fermi liquid can be probed in measurements of the melting temperature and speed of sound. The field theory developed here can serve as a starting point in the study of anomalous Hall crystals and charge density waves with defects.",
+  "authors": [
+    "Paweł Matus",
+    "Tobias Holder"
+  ],
+  "published": "2026-07-20T19:52:28Z",
+  "updated": "2026-07-20T19:52:28Z",
+  "year": "2026",
+  "primary_category": "cond-mat.str-el",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2607.18477",
+  "pdf_url": "https://arxiv.org/pdf/2607.18477",
+  "pillar": "defects",
+  "slug": "2607.18477",
+  "pdf_local": "papers/pdf/2607.18477.pdf"
+}

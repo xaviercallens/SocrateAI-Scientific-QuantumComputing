@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2305.06855",
+  "version": "v2",
+  "title": "Entropy Constraints for Ground Energy Optimization",
+  "abstract": "We study the use of von Neumann entropy constraints for obtaining lower bounds on the ground energy of quantum many-body systems. Known methods for obtaining certificates on the ground energy typically use consistency of local observables and are expressed as semidefinite programming relaxations. The local marginals defined by such a relaxation do not necessarily satisfy entropy inequalities that follow from the existence of a global state. Here, we propose to add such entropy constraints that lead to tighter convex relaxations for the ground energy problem. We give analytical and numerical results illustrating the advantages of such entropy constraints. We also show limitations of the entropy constraints we construct: they are implied by doubling the number of sites in the relaxation and as a result they can at best lead to a quadratic improvement in terms of the matrix sizes of the variables. We explain the relation to a method for approximating the free energy known as the Markov Entropy Decomposition method.",
+  "authors": [
+    "Hamza Fawzi",
+    "Omar Fawzi",
+    "Samuel O. Scalet"
+  ],
+  "published": "2023-05-11T14:51:21Z",
+  "updated": "2024-06-18T10:41:06Z",
+  "year": "2023",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "math-ph"
+  ],
+  "doi": "10.1063/5.0159108",
+  "journal_ref": "J. Math. Phys. 65, 032201 (2024)",
+  "abs_url": "https://arxiv.org/abs/2305.06855",
+  "pdf_url": "https://arxiv.org/pdf/2305.06855",
+  "pillar": "floor",
+  "slug": "2305.06855",
+  "pdf_local": "papers/pdf/2305.06855.pdf"
+}

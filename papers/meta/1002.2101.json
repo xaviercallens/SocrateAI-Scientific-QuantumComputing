@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "1002.2101",
+  "version": "v1",
+  "title": "Phase Diagram of the Low-Density Two-Dimensional Homogeneous Electron Gas",
+  "abstract": "We have used quantum Monte Carlo methods to calculate the zero-temperature phase diagram of the two-dimensional homogeneous electron gas. We find a transition from a paramagnetic fluid to an antiferromagnetic triangular Wigner crystal at density parameter r_s=31(1) a.u. and a transition to a ferromagnetic crystal at r_s=38(5) a.u. The fully spin-polarized fluid is never stable. We searched for, but did not find, the ferromagnetic hybrid phase proposed by H. Falakshahi and X. Waintal [Phys. Rev. Lett. 94, 046801 (2005)].",
+  "authors": [
+    "N. D. Drummond",
+    "R. J. Needs"
+  ],
+  "published": "2010-02-10T16:09:10Z",
+  "updated": "2010-02-10T16:09:10Z",
+  "year": "2010",
+  "primary_category": "cond-mat.mes-hall",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.quant-gas"
+  ],
+  "doi": "10.1103/PhysRevLett.102.126402",
+  "journal_ref": "Phys. Rev. Lett. 102, 126402 (2009)",
+  "abs_url": "https://arxiv.org/abs/1002.2101",
+  "pdf_url": "https://arxiv.org/pdf/1002.2101",
+  "pillar": "gates",
+  "slug": "1002.2101",
+  "pdf_local": "papers/pdf/1002.2101.pdf"
+}

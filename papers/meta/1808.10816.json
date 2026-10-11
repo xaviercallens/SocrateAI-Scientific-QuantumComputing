@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "1808.10816",
+  "version": "v1",
+  "title": "Quantum Optimization for Maximum Independent Set Using Rydberg Atom Arrays",
+  "abstract": "We describe and analyze an architecture for quantum optimization to solve maximum independent set (MIS) problems using neutral atom arrays trapped in optical tweezers. Optimizing independent sets is one of the paradigmatic, NP-hard problems in computer science. Our approach is based on coherent manipulation of atom arrays via the excitation into Rydberg atomic states. Specifically, we show that solutions of MIS problems can be efficiently encoded in the ground state of interacting atoms in 2D arrays by utilizing the Rydberg blockade mechanism. By studying the performance of leading classical algorithms, we identify parameter regimes, where computationally hard instances can be tested using near-term experimental systems. Practical implementations of both quantum annealing and variational quantum optimization algorithms beyond the adiabatic principle are discussed.",
+  "authors": [
+    "Hannes Pichler",
+    "Sheng-Tao Wang",
+    "Leo Zhou",
+    "Soonwon Choi",
+    "Mikhail D. Lukin"
+  ],
+  "published": "2018-08-31T15:49:00Z",
+  "updated": "2018-08-31T15:49:00Z",
+  "year": "2018",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "physics.atom-ph"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/1808.10816",
+  "pdf_url": "https://arxiv.org/pdf/1808.10816",
+  "pillar": "benchmark",
+  "slug": "1808.10816",
+  "pdf_local": "papers/pdf/1808.10816.pdf"
+}

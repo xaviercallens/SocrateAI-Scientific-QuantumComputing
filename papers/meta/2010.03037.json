@@ -1,0 +1,39 @@
+{
+  "arxiv_id": "2010.03037",
+  "version": "v1",
+  "title": "Signatures of bilayer Wigner crystals in a transition metal dichalcogenide heterostructure",
+  "abstract": "A Wigner crystal, a regular electron lattice arising from strong correlation effects, is one of the earliest predicted collective electronic states. This many-body state exhibits quantum and classical phase transitions and has been proposed as a basis for quantum information processing applications. In semiconductor platforms, two-dimensional Wigner crystals have been observed under magnetic field or moiré-based lattice potential where the electron kinetic energy is strongly suppressed. Here, we report bilayer Wigner crystal formation without a magnetic or confinement field in atomically thin MoSe$_2$ bilayers separated by hexagonal boron nitride. We observe optical signatures of robust correlated insulating states formed at symmetric (1:1) and asymmetric (4:1 and 7:1) electron doping of the two MoSe$_2$ layers at cryogenic temperatures. We attribute these features to the bilayer Wigner crystals formed from two commensurate triangular electron lattices in each layer, stabilized via inter-layer interaction. These bilayer Wigner crystal phases are remarkably stable and undergo quantum and thermal melting transitions above a critical electron density of up to $6 \\times10^{12}$ cm$^{-2}$ and at temperatures of ~40 K. Our results demonstrate that atomically thin semiconductors provide a promising new platform for realizing strongly correlated electronic states, probing their electronic and magnetic phase transitions, and developing novel applications in quantum electronics and optoelectronics.",
+  "authors": [
+    "You Zhou",
+    "Jiho Sung",
+    "Elise Brutschea",
+    "Ilya Esterlis",
+    "Yao Wang",
+    "Giovanni Scuri",
+    "Ryan J. Gelly",
+    "Hoseok Heo",
+    "Takashi Taniguchi",
+    "Kenji Watanabe",
+    "Gergely Zaránd",
+    "Mikhail D. Lukin",
+    "Philip Kim",
+    "Eugene Demler",
+    "Hongkun Park"
+  ],
+  "published": "2020-10-06T21:13:31Z",
+  "updated": "2020-10-06T21:13:31Z",
+  "year": "2020",
+  "primary_category": "cond-mat.mes-hall",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "doi": "10.1038/s41586-021-03560-w",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2010.03037",
+  "pdf_url": "https://arxiv.org/pdf/2010.03037",
+  "pillar": "gates",
+  "slug": "2010.03037",
+  "pdf_local": "papers/pdf/2010.03037.pdf"
+}

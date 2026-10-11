@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2307.15822",
+  "version": "v4",
+  "title": "Universally Optimal Periodic Configurations in the Plane",
+  "abstract": "We develop lower bounds for the energy of configurations in $\\mathbb{R}^d$ periodic with respect to a lattice. In certain cases, the construction of sharp bounds can be formulated as a finite dimensional, multivariate polynomial interpolation problem. We use this framework to show a scaling of the equitriangular lattice $A_2$ is universally optimal among all configurations of the form $ω_4+ A_2$ where $ω_4$ is a 4-point configuration in $\\mathbb{R}^2$. Likewise, we show a scaling and rotation of $A_2$ is universally optimal among all configurations of the form $ω_6+L$ where $ω_6$ is a 6-point configuration in $\\mathbb{R}^2$ and $L=\\mathbb{Z} \\times \\sqrt{3} \\mathbb{Z}$.",
+  "authors": [
+    "Doug Hardin",
+    "Nathaniel Tenpas"
+  ],
+  "published": "2023-07-28T21:45:46Z",
+  "updated": "2025-10-15T12:07:55Z",
+  "year": "2023",
+  "primary_category": "math.CA",
+  "categories": [
+    "math.CA",
+    "math-ph"
+  ],
+  "doi": "10.19086/da.144978",
+  "journal_ref": "Hardin, Doug, and Nathaniel Tenpas. 2025. Universally Optimal Periodic Configurations in the Plane. Discrete Analysis, October",
+  "abs_url": "https://arxiv.org/abs/2307.15822",
+  "pdf_url": "https://arxiv.org/pdf/2307.15822",
+  "pillar": "foundation",
+  "slug": "2307.15822",
+  "pdf_local": "papers/pdf/2307.15822.pdf"
+}

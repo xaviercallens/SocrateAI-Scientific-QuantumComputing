@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2506.09865",
+  "version": "v1",
+  "title": "Rydberg atom arrays as quantum simulators for molecular dynamics",
+  "abstract": "Rydberg atoms held in optical tweezer arrays combine vibrational and electronic degrees of freedom which can be coupled and manipulated at a microscopic level. This opens opportunities for the quantum simulation of artificial molecular systems and offers in particular a platform for probing complex vibronic dynamics in controlled settings with increasing complexity. Tailored interatomic interactions and electron-phonon couplings yield handles for designing electronic state manifolds, for studying structural transitions, and for exploring non-classical vibrational states near molecular instabilities. Furthermore, this quantum simulator opens opportunities for testing and quantifying the validity of fundamental concepts, such as the Born-Oppenheimer approximation and quantum corrections to it.",
+  "authors": [
+    "Simon Euchner",
+    "Igor Lesanovsky"
+  ],
+  "published": "2025-06-11T15:39:19Z",
+  "updated": "2025-06-11T15:39:19Z",
+  "year": "2025",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "10.1103/r54t-myhc",
+  "journal_ref": "Phys. Rev. Research 7, L042009 (2025)",
+  "abs_url": "https://arxiv.org/abs/2506.09865",
+  "pdf_url": "https://arxiv.org/pdf/2506.09865",
+  "pillar": "layout",
+  "slug": "2506.09865",
+  "pdf_local": "papers/pdf/2506.09865.pdf"
+}

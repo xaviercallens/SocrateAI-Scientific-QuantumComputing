@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2202.09240",
+  "version": "v2",
+  "title": "Coulomb and Riesz gases: The known and the unknown",
+  "abstract": "We review what is known, unknown and expected about the mathematical properties of Coulomb and Riesz gases. Those describe infinite configurations of points in $\\mathbb{R}^d$ interacting with the Riesz potential $\\pm |x|^{-s}$ (resp. $-\\log|x|$ for $s=0$). Our presentation follows the standard point of view of statistical mechanics, but we also mention how these systems arise in other important situations (e.g. in random matrix theory). The main question addressed in the article is how to properly define the associated infinite point process and characterize it using some (renormalized) equilibrium equation. This is largely open in the long range case $s<d$. For the convenience of the reader we give the detail of what is known in the short range case $s>d$. In the last part we discuss phase transitions and mention what is expected on physical grounds.",
+  "authors": [
+    "Mathieu Lewin"
+  ],
+  "published": "2022-02-18T15:06:52Z",
+  "updated": "2022-04-30T14:46:54Z",
+  "year": "2022",
+  "primary_category": "math-ph",
+  "categories": [
+    "math-ph",
+    "cond-mat.stat-mech",
+    "math.PR"
+  ],
+  "doi": "10.1063/5.0086835",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2202.09240",
+  "pdf_url": "https://arxiv.org/pdf/2202.09240",
+  "pillar": "foundation",
+  "slug": "2202.09240",
+  "pdf_local": "papers/pdf/2202.09240.pdf"
+}

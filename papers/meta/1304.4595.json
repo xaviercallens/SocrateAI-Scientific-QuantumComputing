@@ -1,0 +1,30 @@
+{
+  "arxiv_id": "1304.4595",
+  "version": "v2",
+  "title": "Quantum annealing with more than one hundred qubits",
+  "abstract": "Quantum technology is maturing to the point where quantum devices, such as quantum communication systems, quantum random number generators and quantum simulators, may be built with capabilities exceeding classical computers. A quantum annealer, in particular, solves hard optimisation problems by evolving a known initial configuration at non-zero temperature towards the ground state of a Hamiltonian encoding a given problem. Here, we present results from experiments on a 108 qubit D-Wave One device based on superconducting flux qubits. The strong correlations between the device and a simulated quantum annealer, in contrast with weak correlations between the device and classical annealing or classical spin dynamics, demonstrate that the device performs quantum annealing. We find additional evidence for quantum annealing in the form of small-gap avoided level crossings characterizing the hard problems. To assess the computational power of the device we compare it to optimised classical algorithms.",
+  "authors": [
+    "Sergio Boixo",
+    "Troels F. Rønnow",
+    "Sergei V. Isakov",
+    "Zhihui Wang",
+    "David Wecker",
+    "Daniel A. Lidar",
+    "John M. Martinis",
+    "Matthias Troyer"
+  ],
+  "published": "2013-04-16T20:00:03Z",
+  "updated": "2013-07-21T23:54:46Z",
+  "year": "2013",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "10.1038/nphys2900",
+  "journal_ref": "Nature Phys. 10, 218 (2014)",
+  "abs_url": "https://arxiv.org/abs/1304.4595",
+  "pdf_url": "https://arxiv.org/pdf/1304.4595",
+  "pillar": "benchmark",
+  "slug": "1304.4595",
+  "pdf_local": "papers/pdf/1304.4595.pdf"
+}

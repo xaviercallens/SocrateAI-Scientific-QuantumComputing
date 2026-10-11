@@ -1,0 +1,38 @@
+{
+  "arxiv_id": "2401.08087",
+  "version": "v1",
+  "title": "Probing quantum floating phases in Rydberg atom arrays",
+  "abstract": "The floating phase, a critical incommensurate phase, has been theoretically predicted as a potential intermediate phase between crystalline ordered and disordered phases. In this study, we investigate the different quantum phases that arise in ladder arrays comprising up to 92 neutral-atom qubits and experimentally observe the emergence of the quantum floating phase. We analyze the site-resolved Rydberg state densities and the distribution of state occurrences. The site-resolved measurement reveals the formation of domain walls within the commensurate ordered phase, which subsequently proliferate and give rise to the floating phase with incommensurate quasi-long-range order. By analyzing the Fourier spectra of the Rydberg density-density correlations, we observe clear signatures of the incommensurate wave order of the floating phase. Furthermore, as the experimental system sizes increase, we show that the wave vectors approach a continuum of values incommensurate with the lattice. Our work motivates future studies to further explore the nature of commensurate-incommensurate phase transitions and their non-equilibrium physics.",
+  "authors": [
+    "Jin Zhang",
+    "Sergio H. Cantú",
+    "Fangli Liu",
+    "Alexei Bylinskii",
+    "Boris Braverman",
+    "Florian Huber",
+    "Jesse Amato-Grill",
+    "Alexander Lukin",
+    "Nathan Gemelke",
+    "Alexander Keesling",
+    "Sheng-Tao Wang",
+    "Y. Meurice",
+    "S. -W. Tsai"
+  ],
+  "published": "2024-01-16T03:26:36Z",
+  "updated": "2024-01-16T03:26:36Z",
+  "year": "2024",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.quant-gas",
+    "hep-lat",
+    "physics.atom-ph"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2401.08087",
+  "pdf_url": "https://arxiv.org/pdf/2401.08087",
+  "pillar": "benchmark",
+  "slug": "2401.08087",
+  "pdf_local": "papers/pdf/2401.08087.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "1106.5275",
+  "version": "v3",
+  "title": "Lower Bounds for Ground States of Condensed Matter Systems",
+  "abstract": "Standard variational methods tend to obtain upper bounds on the ground state energy of quantum many-body systems. Here we study a complementary method that determines lower bounds on the ground state energy in a systematic fashion, scales polynomially in the system size and gives direct access to correlation functions. This is achieved by relaxing the positivity constraint on the density matrix and replacing it by positivity constraints on moment matrices, thus yielding a semi-definite programme. Further, the number of free parameters in the optimization problem can be reduced dramatically under the assumption of translational invariance. A novel numerical approach, principally a combination of a projected gradient algorithm with Dykstra's algorithm, for solving the optimization problem in a memory-efficient manner is presented and a proof of convergence for this iterative method is given. Numerical experiments that determine lower bounds on the ground state energies for the Ising and Heisenberg Hamiltonians confirm that the approach can be applied to large systems, especially under the assumption of translational invariance.",
+  "authors": [
+    "Tillmann Baumgratz",
+    "Martin B. Plenio"
+  ],
+  "published": "2011-06-26T22:24:03Z",
+  "updated": "2012-02-27T16:42:11Z",
+  "year": "2011",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "10.1088/1367-2630/14/2/023027",
+  "journal_ref": "New J. Phys. 14, 023027 (2012)",
+  "abs_url": "https://arxiv.org/abs/1106.5275",
+  "pdf_url": "https://arxiv.org/pdf/1106.5275",
+  "pillar": "floor",
+  "slug": "1106.5275",
+  "pdf_local": "papers/pdf/1106.5275.pdf"
+}

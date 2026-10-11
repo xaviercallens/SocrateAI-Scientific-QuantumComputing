@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "1001.0519",
+  "version": "v1",
+  "title": "Strongly correlated gases of Rydberg-dressed atoms: quantum and classical dynamics",
+  "abstract": "We discuss techniques to generate long-range interactions in a gas of groundstate alkali atoms, by weakly admixing excited Rydberg states with laser light. This provides a tool to engineer strongly correlated phases with reduced decoherence from inelastic collisions and spontaneous emission. As an illustration, we discuss the quantum phases of dressed atoms with dipole-dipole interactions confined in a harmonic potential, as relevant to experiments. We show that residual spontaneous emission from the Rydberg state acts as a heating mechanism, leading to a quantum-classical crossover.",
+  "authors": [
+    "G. Pupillo",
+    "A. Micheli",
+    "M. Boninsegni",
+    "I. Lesanovsky",
+    "P. Zoller"
+  ],
+  "published": "2010-01-04T15:01:37Z",
+  "updated": "2010-01-04T15:01:37Z",
+  "year": "2010",
+  "primary_category": "cond-mat.quant-gas",
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "doi": "10.1103/PhysRevLett.104.223002",
+  "journal_ref": "Phys. Rev. Lett. 104, 223002 (2010)",
+  "abs_url": "https://arxiv.org/abs/1001.0519",
+  "pdf_url": "https://arxiv.org/pdf/1001.0519",
+  "pillar": "benchmark",
+  "slug": "1001.0519",
+  "pdf_local": "papers/pdf/1001.0519.pdf"
+}

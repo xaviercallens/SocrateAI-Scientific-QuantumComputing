@@ -1,0 +1,38 @@
+{
+  "arxiv_id": "2210.12337",
+  "version": "v2",
+  "title": "Electron charge qubits with 0.1 millisecond coherence time",
+  "abstract": "Electron charge qubits are compelling candidates for solid-state quantum computing because of their inherent simplicity in qubit design, fabrication, control, and readout. However, all existing electron charge qubits, built upon conventional semiconductors and superconductors, suffer from severe charge noise that limits the coherence time to the order of 1 microsecond. Here, we report our experimental realization of ultralong-coherence electron charge qubits, based upon isolated single electrons trapped on an ultraclean solid neon surface in vacuum. Quantum information is encoded in the motional states of an electron that is strongly coupled with microwave photons in an on-chip superconducting resonator. The measured relaxation time $T_1$ and coherence time $T_2$ are both on the order of 0.1 milliseconds. The single-shot readout fidelity without using a quantum-limited amplifier is 98.1%. The average single-qubit gate fidelity using Clifford-based randomized benchmarking is 99.97%. Simultaneous strong coupling of two qubits with the same resonator is demonstrated, as a first step toward two-qubit entangling gates for universal quantum computing. These results manifest that the electron-on-solid-neon (eNe) charge qubits outperform all existing charge qubits to date and rival state-of-the-art superconducting transmon qubits, offering an appealing platform for quantum computing.",
+  "authors": [
+    "Xianjing Zhou",
+    "Xinhao Li",
+    "Qianfan Chen",
+    "Gerwin Koolstra",
+    "Ge Yang",
+    "Brennan Dizdar",
+    "Yizhong Huang",
+    "Christopher S. Wang",
+    "Xu Han",
+    "Xufeng Zhang",
+    "David I. Schuster",
+    "Dafei Jin"
+  ],
+  "published": "2022-10-22T02:51:59Z",
+  "updated": "2023-02-19T05:22:39Z",
+  "year": "2022",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph",
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "cond-mat.quant-gas",
+    "cond-mat.supr-con"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2210.12337",
+  "pdf_url": "https://arxiv.org/pdf/2210.12337",
+  "pillar": "gates",
+  "slug": "2210.12337",
+  "pdf_local": "papers/pdf/2210.12337.pdf"
+}

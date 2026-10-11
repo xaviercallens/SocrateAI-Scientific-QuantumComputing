@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "cond-mat/0411333",
+  "version": "v1",
+  "title": "Melting temperature of screened Wigner crystal on helium films by molecular dynamics",
+  "abstract": "Using molecular dynamics (MD) simulation, we have calculated the melting temperature of two-dimensional electron systems on $ 240$Å-$ 500$Åhelium films supported by substrates of dielectric constants $ ε_{s}=2.2-11.9$ at areal densities $n$ varying from $ 3\\times 10^{9}$ cm$^{-2}$ to $ 1.3\\times 10^{10}$ cm$^{-2}$. Our results are in good agreement with the available theoretical and experimental results.",
+  "authors": [
+    "J. A. R. da Cunha",
+    "Ladir Candido"
+  ],
+  "published": "2004-11-12T13:01:55Z",
+  "updated": "2004-11-12T13:01:55Z",
+  "year": "2004",
+  "primary_category": "cond-mat.str-el",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "doi": "10.1103/PhysRevB.71.073403",
+  "journal_ref": "Physical Review B (brief reports) 71, 073403 (2005)",
+  "abs_url": "https://arxiv.org/abs/cond-mat/0411333",
+  "pdf_url": "https://arxiv.org/pdf/cond-mat/0411333",
+  "pillar": "gates",
+  "slug": "cond-mat_0411333",
+  "pdf_local": "papers/pdf/cond-mat_0411333.pdf"
+}

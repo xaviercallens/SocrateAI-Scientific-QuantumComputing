@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "1004.1838",
+  "version": "v2",
+  "title": "Topological Order with a Twist: Ising Anyons from an Abelian Model",
+  "abstract": "Anyon models can be symmetric under some permutations of their topological charges. One can then conceive topological defects that, under monodromy, transform anyons according to a symmetry. We study the realization of such defects in the toric code model, showing that a process where defects are braided and fused has the same outcome as if they were Ising anyons. These ideas can also be applied in the context of topological codes.",
+  "authors": [
+    "H. Bombin"
+  ],
+  "published": "2010-04-11T20:18:33Z",
+  "updated": "2010-07-28T08:42:50Z",
+  "year": "2010",
+  "primary_category": "cond-mat.str-el",
+  "categories": [
+    "cond-mat.str-el",
+    "hep-th",
+    "quant-ph"
+  ],
+  "doi": "10.1103/PhysRevLett.105.030403",
+  "journal_ref": "Phys.Rev.Lett.105:030403,2010",
+  "abs_url": "https://arxiv.org/abs/1004.1838",
+  "pdf_url": "https://arxiv.org/pdf/1004.1838",
+  "pillar": "defects",
+  "slug": "1004.1838",
+  "pdf_local": "papers/pdf/1004.1838.pdf"
+}

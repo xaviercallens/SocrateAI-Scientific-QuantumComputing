@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "2104.15044",
+  "version": "v3",
+  "title": "Pulser: An open-source package for the design of pulse sequences in programmable neutral-atom arrays",
+  "abstract": "Programmable arrays of hundreds of Rydberg atoms have recently enabled the exploration of remarkable phenomena in many-body quantum physics. In addition, the development of high-fidelity quantum gates are making them promising architectures for the implementation of quantum circuits. We present here \\textit{Pulser}, an open-source Python library for programming neutral-atom devices at the pulse level. The low-level nature of Pulser makes it a versatile framework for quantum control both in the digital and analog settings. The library also contains simulation routines for studying and exploring the outcome of pulse sequences for small systems.",
+  "authors": [
+    "Henrique Silvério",
+    "Sebastián Grijalva",
+    "Constantin Dalyac",
+    "Lucas Leclerc",
+    "Peter J. Karalekas",
+    "Nathan Shammah",
+    "Mourad Beji",
+    "Louis-Paul Henry",
+    "Loïc Henriet"
+  ],
+  "published": "2021-04-30T15:13:04Z",
+  "updated": "2022-01-12T16:18:37Z",
+  "year": "2021",
+  "primary_category": "quant-ph",
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "10.22331/q-2022-01-24-629",
+  "journal_ref": "Quantum 6, 629 (2022)",
+  "abs_url": "https://arxiv.org/abs/2104.15044",
+  "pdf_url": "https://arxiv.org/pdf/2104.15044",
+  "pillar": "benchmark",
+  "slug": "2104.15044",
+  "pdf_local": "papers/pdf/2104.15044.pdf"
+}

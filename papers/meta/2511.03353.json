@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2511.03353",
+  "version": "v1",
+  "title": "The hexagonal lattice is universally locally optimal",
+  "abstract": "We prove that the hexagonal lattice is a local minimizer, among all point configurations, of the interaction energy per unit volume for pair potentials that are completely monotonic functions of the square distance. This includes Gaussian interactions and power laws.",
+  "authors": [
+    "Thomas Leblé"
+  ],
+  "published": "2025-11-05T10:47:23Z",
+  "updated": "2025-11-05T10:47:23Z",
+  "year": "2025",
+  "primary_category": "math.MG",
+  "categories": [
+    "math.MG",
+    "math-ph"
+  ],
+  "doi": "",
+  "journal_ref": "",
+  "abs_url": "https://arxiv.org/abs/2511.03353",
+  "pdf_url": "https://arxiv.org/pdf/2511.03353",
+  "pillar": "foundation",
+  "slug": "2511.03353",
+  "pdf_local": "papers/pdf/2511.03353.pdf"
+}
