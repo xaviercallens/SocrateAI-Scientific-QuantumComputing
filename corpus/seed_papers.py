@@ -44,7 +44,7 @@ SEED_PAPERS: list[tuple[str, str, str]] = [
     ("2104.15044", "benchmark", "pulser: an open-source package for the design of pulse sequences"),
     ("2401.08087", "benchmark", "probing quantum floating phases in rydberg atom arrays"),
     ("2002.04987", "benchmark", "critical energy landscape of linear soft spheres"),
-    ("1001.0519", "benchmark", "rydberg"),
+    ("1001.0519", "benchmark", "rydberg-dressed atoms"),
     # --- layout (idea 2) ---------------------------------------------------
     ("1512.03756", "layout", "quantum spin dynamics and entanglement generation with hundreds of trapped ions"),
     ("1204.5789", "layout", "engineered 2d ising interactions on a trapped-ion quantum simulator"),

@@ -111,7 +111,16 @@ Montgomery 1988 (10.1017/S0017089500007047) · Rankin 1953 (10.1017/S20406185000
 - Collections created for this stream:
   - `qc_literature`: arXiv papers (abstract plus up to 40 body chunks per paper). Built by `corpus/fetch_papers.py` then `corpus/ingest_chroma.py`; check with `corpus/query_chroma.py --verify`.
   - `qc_streams`: SocrateAI material from other streams and this repo. Every chunk is tagged `provenance: NOT peer-reviewed` with a `tier_note`. Built by `corpus/ingest_streams.py`.
-- The existing collections (`adscmt_literature`, `adscmt_generated`, `phase1_traces`) are left untouched.
+- The existing collections (`adscmt_literature`, `adscmt_generated`, `phase1_traces`) are left untouched. A backup of the
+  store made before the first write is at `~/AutoevolveAI/data/chroma_backups/chroma_pre_qc_2026-10-11`.
+- LeanMaster's `.leancache/declarations.db` (a TF-IDF/SQLite index, not Chroma) was **not** re-indexed. It predates
+  the D1–D3 corollaries; see workflow §5.
+
+**Ingestion record (2026-10-11):**
+- `qc_literature`: all 73/73 abstracts landed (1024-d). `query_chroma.py --verify` **PASS 8/8** probes.
+- Full-text body chunks (2,501 from the dry run) were started with `ingest_chroma.py --resume`. Re-run the same command
+  if it is interrupted; it skips chunks already stored. Then re-run `--verify`.
+- `qc_streams`: 90 chunks from 21 documents.
 
 Usage:
 ```bash

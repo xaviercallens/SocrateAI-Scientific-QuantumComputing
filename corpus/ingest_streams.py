@@ -41,6 +41,13 @@ COLLECTION = "qc_streams"
 
 TUO = HOME / "triangular-universal-optimality-lean"
 TUO_GUIDE = TUO / ".claude" / "worktrees" / "physics-skyrmion"
+# Worktree checkouts are labelled by their real repository (and branch), not by the worktree folder name.
+REPO_LABELS = {
+    ROOT: "SocrateAI-Scientific-QuantumComputing",
+    TUO: "triangular-universal-optimality-lean",
+    TUO_GUIDE: "triangular-universal-optimality-lean@docs/physicist-guide",
+    HOME: "home",
+}
 CONDITIONAL = ("Lean results conditional on unreviewed upstream openai/math "
                "universal_energy_minimum; statement fidelity (RED_TEAM T1) open")
 
@@ -113,7 +120,7 @@ def main() -> int:
         body = text_of(p)
         if not body:
             continue
-        repo_name = repo.name if repo != HOME else "home"
+        repo_name = REPO_LABELS.get(repo, repo.name)
         rel = str(p.relative_to(repo))
         digest = hashlib.sha256(p.read_bytes()).hexdigest()
         commit = git_commit(repo)

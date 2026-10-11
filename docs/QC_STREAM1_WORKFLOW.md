@@ -51,16 +51,24 @@ Each phase starts with a preregistration (`prereg/QC1-Pn.json`, same format as `
 - **P1.1** Re-run `lean-proof-gate` on `triangular-universal-optimality-lean` (v0.3.0) against openai/math `fd4aeeb2` and record the result here. Read RED_TEAM T1 status.
 - **P1.2** New lemma, Tier C → A target: the single-plane image potential f(t) = t^(−1/2) − (t+4d²)^(−1/2) satisfies upstream `AdmissiblePotential`, because (−1)ᵏf⁽ᵏ⁾ ∝ t^(−1/2−k) − (t+4d²)^(−1/2−k) ≥ 0.
 - **P1.3** Locate and pin the 52-theorem dual-gate kernel module from SocrateAI-Scientific-QuantumFluids (Zenodo 23297479). Check whether its CM notion matches upstream `AdmissiblePotential` (a function of r², smooth on (0,∞)), and whether a bridge lemma gives the gated **exciton** kernel as a corollary of D1/D2.
-- **P1.4** Check that Riesz s = 6 with a hard-core cut-off (blockade) is **not** admissible. A plateau potential breaks complete monotonicity (F3). Record exactly what the D1 claim covers on hardware.
+- **P1.4** State the hardware assumption precisely.
+  - Rydberg-state pairs interact via C₆/r⁶ (Riesz s = 6, covered by D1).
+  - The blockade is a *consequence* of that interaction, not a cut-off in the Hamiltonian.
+  - The cases that are **not** completely monotone are Rydberg dressing (a soft-core plateau, F3) and short-range departures from pure van der Waals (Förster resonances, molecular potentials).
+  - Record the assumption that pure C₆/r⁶ holds at Aquila spacings of 4 µm or more, with a literature check of C₆ for the Rb Rydberg state used.
 - *Prereg stub.* H: the P1.2 kernel is admissible, and D1 covers bare C₆/r⁶. Kill: any `AdmissiblePotential` clause fails for the gate kernel at some d > 0, or statement fidelity T1 is refuted.
 
 ### P2 — Verification benchmark on a Riesz-6 lattice gas (idea 1, reframed)
 - **P2.1 Encoding.**
-  - Candidate sites form a fine grid, triangular or square, with spacing ≥ 4 µm (Aquila).
+  - Candidate sites form a fine **triangular** grid with spacing ≥ 4 µm (Aquila), so that the triangular target is a sub-lattice at a commensurate density. A square grid cannot host it.
   - Variables are Rydberg occupations.
-  - Energy is −Δ·N_R plus Σ C₆/r⁶ over pairs of Rydberg atoms. Choose Δ to fix the density.
+  - Energy is −Δ·N_R plus Σ C₆/r⁶ over pairs of Rydberg atoms. Choose Δ to select the density.
   - Target: the triangular sub-lattice arrangement.
-  - Caveat: the theorem is a continuum, infinite-volume statement (F1, F5). The ground state of the **discrete, finite** problem must be fixed independently, by exact enumeration or ILP for small N.
+- **How far the certificate reaches.** Grid configurations are a subset of all planar configurations. So at commensurate density, the D1/D2 certificate carries over to the grid in the infinite-volume liminf sense, conditional on upstream.
+- **What stays open, and must be fixed by exact enumeration or ILP for small N:**
+  - finite N with open boundaries (F1, F5);
+  - the fixed-Δ (grand-canonical) form, where density is not fixed;
+  - degeneracy, for example vacancies (D3).
 - **P2.2 Classical baselines**, in `qf-yukawa-crystal`, adapted to s = 6 on sites:
   - simulated annealing;
   - parallel tempering;
@@ -70,8 +78,10 @@ Each phase starts with a preregistration (`prereg/QC1-Pn.json`, same format as `
 
   Rønnow-style time-to-target metrics (1401.2910). Finish the owed full-budget κ=1 runs first, and publish the r_c erratum for Zenodo 23293429.
 - **P2.3 Emulation:** Braket local `braket_ahs` and bloqade-analog, N ≤ 12–16. Only then use Aquila (256 sites, $0.30/task + $0.01/shot). D-Wave via Leap and Pasqal via its own cloud are optional, because neither is on Braket.
-- **P2.4 Analysis:** compare the probability of the target configuration against classical time-to-target, and run `ubound.py` on measured snapshots.
-- *Prereg stub.* H: on hard instances where SA fails, defined by the P2.2 suite, the analog run reaches the target with probability above the classical success rate at matched wall-clock. Kill: tempering or ILP solves every instance up to device size (no hard instances, as in F4), **or** the emulator ground state differs from the triangular target.
+- **P2.4 Analysis.**
+  - Primary: the outcome distribution concentrates on the exactly-solved target, and measured snapshots pass `ubound.py`.
+  - Secondary, exploratory only, never an advantage claim: classical time-to-target with Rønnow-style controls (F4).
+- *Prereg stub (verification, not advantage).* H: at the end of the adiabatic sweep, the emulator (then the QPU) output places at least a preregistered fraction p* of shots on the exactly-solved target (or its symmetry and vacancy class). No shot's energy falls below the finite-N floor. Kill: the exact finite-N ground state is not the triangular sub-lattice for any tested commensurate Δ, **or** emulator outputs never concentrate on it.
 
 ### P3 — Gate-safe operating envelope (idea 4)
 - **P3.1** State the envelope precisely. With P1.2 and P1.3 done, the classical bulk ground state of the gated crystal is triangular, conditional on upstream, for every gate distance. This covers the many-electron and exciton **crystal** phases, not single-electron trap qubits (F11).
